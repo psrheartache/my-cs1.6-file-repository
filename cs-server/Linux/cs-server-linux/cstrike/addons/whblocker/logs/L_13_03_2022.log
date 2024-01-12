@@ -1,0 +1,41 @@
+L 03/13/2022 - 00:04:50: Log file started (file 'cstrike/addons/whblocker/logs/L_13_03_2022.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 03/13/2022 - 00:04:50: DEBUG: GameRules found 0xA4FE8D0
+L 03/13/2022 - 00:04:50: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/13/2022 - 00:04:50: Building PAS...
+L 03/13/2022 - 00:04:50: Average leaves visible / audible / total: 151 / 385 / 1238
+L 03/13/2022 - 00:04:50: PAS building time 0.006901 secs
+L 03/13/2022 - 00:31:47: DEBUG: GameRules found 0xA4FE8D0
+L 03/13/2022 - 00:31:47: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/13/2022 - 00:31:47: Building PAS...
+L 03/13/2022 - 00:31:47: Average leaves visible / audible / total: 48 / 92 / 97
+L 03/13/2022 - 00:31:47: PAS building time 0.000177 secs
+L 03/13/2022 - 00:32:42: DEBUG: GameRules found 0xA4FE8D0
+L 03/13/2022 - 00:32:42: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/13/2022 - 00:32:42: Building PAS...
+L 03/13/2022 - 00:32:42: Average leaves visible / audible / total: 133 / 395 / 1202
+L 03/13/2022 - 00:32:42: PAS building time 0.010081 secs
+L 03/13/2022 - 21:16:45: DEBUG: GameRules found 0xA4FE8D0
+L 03/13/2022 - 21:16:45: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/13/2022 - 21:16:45: Building PAS...
+L 03/13/2022 - 21:16:45: Average leaves visible / audible / total: 150 / 552 / 1459
+L 03/13/2022 - 21:16:45: PAS building time 0.009546 secs
+L 03/13/2022 - 21:50:47: DEBUG: GameRules found 0xA4FE8D0
+L 03/13/2022 - 21:50:47: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/13/2022 - 21:50:47: Building PAS...
+L 03/13/2022 - 21:50:47: Average leaves visible / audible / total: 143 / 546 / 1860
+L 03/13/2022 - 21:50:47: PAS building time 0.014399 secs
+L 03/13/2022 - 22:32:25: DEBUG: GameRules found 0xA4FE8D0
+L 03/13/2022 - 22:32:25: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/13/2022 - 22:32:25: Building PAS...
+L 03/13/2022 - 22:32:25: Average leaves visible / audible / total: 151 / 385 / 1238
+L 03/13/2022 - 22:32:25: PAS building time 0.006919 secs
+L 03/13/2022 - 22:57:16: DEBUG: GameRules found 0xA4FE8D0
+L 03/13/2022 - 22:57:16: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/13/2022 - 22:57:16: Building PAS...
+L 03/13/2022 - 22:57:16: Average leaves visible / audible / total: 133 / 395 / 1202
+L 03/13/2022 - 22:57:16: PAS building time 0.006573 secs
+L 03/13/2022 - 23:34:57: DEBUG: GameRules found 0xA4FE8D0
+L 03/13/2022 - 23:34:57: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/13/2022 - 23:34:57: Building PAS...
+L 03/13/2022 - 23:34:57: Average leaves visible / audible / total: 150 / 552 / 1459
+L 03/13/2022 - 23:34:57: PAS building time 0.012269 secs

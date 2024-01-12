@@ -1,0 +1,179 @@
+L 12/02/2021 - 00:07:20: Log file started (file 'cstrike/addons/whblocker/logs/L_02_12_2021.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 12/02/2021 - 00:07:20: DEBUG: GameRules found 0x9EAAA68
+L 12/02/2021 - 00:07:20: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 00:07:20: Building PAS...
+L 12/02/2021 - 00:07:20: Average leaves visible / audible / total: 143 / 546 / 1860
+L 12/02/2021 - 00:07:20: PAS building time 0.014451 secs
+L 12/02/2021 - 00:07:33: DEBUG: GameRules found 0x9EAAA68
+L 12/02/2021 - 00:07:33: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 00:07:33: Building PAS...
+L 12/02/2021 - 00:07:33: Average leaves visible / audible / total: 151 / 385 / 1238
+L 12/02/2021 - 00:07:33: PAS building time 0.006828 secs
+L 12/02/2021 - 00:32:20: DEBUG: GameRules found 0x9EAAA68
+L 12/02/2021 - 00:32:20: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 00:32:20: Building PAS...
+L 12/02/2021 - 00:32:20: Average leaves visible / audible / total: 151 / 385 / 1238
+L 12/02/2021 - 00:32:20: PAS building time 0.006923 secs
+L 12/02/2021 - 00:33:01: DEBUG: GameRules found 0x9EAAA68
+L 12/02/2021 - 00:33:01: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 00:33:01: Building PAS...
+L 12/02/2021 - 00:33:01: Average leaves visible / audible / total: 151 / 385 / 1238
+L 12/02/2021 - 00:33:01: PAS building time 0.006857 secs
+L 12/02/2021 - 00:44:02: DEBUG: GameRules found 0x9EAAA68
+L 12/02/2021 - 00:44:02: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 00:44:02: Building PAS...
+L 12/02/2021 - 00:44:02: Average leaves visible / audible / total: 133 / 395 / 1202
+L 12/02/2021 - 00:44:02: PAS building time 0.006531 secs
+L 12/02/2021 - 01:15:22: DEBUG: GameRules found 0x9EAAA68
+L 12/02/2021 - 01:15:22: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 01:15:22: Building PAS...
+L 12/02/2021 - 01:15:22: Average leaves visible / audible / total: 150 / 552 / 1459
+L 12/02/2021 - 01:15:22: PAS building time 0.009479 secs
+L 12/02/2021 - 01:44:13: DEBUG: GameRules found 0x9EAAA68
+L 12/02/2021 - 01:44:13: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 01:44:13: Building PAS...
+L 12/02/2021 - 01:44:13: Average leaves visible / audible / total: 150 / 552 / 1459
+L 12/02/2021 - 01:44:13: PAS building time 0.009592 secs
+L 12/02/2021 - 01:48:32: DEBUG: GameRules found 0x9EAAA68
+L 12/02/2021 - 01:48:32: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 01:48:32: Building PAS...
+L 12/02/2021 - 01:48:32: Average leaves visible / audible / total: 143 / 546 / 1860
+L 12/02/2021 - 01:48:32: PAS building time 0.014249 secs
+L 12/02/2021 - 02:11:41: DEBUG: GameRules found 0x9EAAA68
+L 12/02/2021 - 02:11:41: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 02:11:41: Building PAS...
+L 12/02/2021 - 02:11:41: Average leaves visible / audible / total: 48 / 92 / 97
+L 12/02/2021 - 02:11:41: PAS building time 0.000194 secs
+L 12/02/2021 - 02:12:26: DEBUG: GameRules found 0x9EAAA68
+L 12/02/2021 - 02:12:26: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 12:23:15: Success: Configuration executed.
+L 12/02/2021 - 12:23:15: DEBUG: SVS found 0xF73E9760
+L 12/02/2021 - 12:23:15: DEBUG: SV_CheckTimeouts function FOUND 0xF6F86DD0
+L 12/02/2021 - 12:23:15: DEBUG: client_t address of a structure FOUND 0xF6F86E01
+L 12/02/2021 - 12:23:15: DEBUG: client_t determined the size of a the structure 20216
+L 12/02/2021 - 12:23:15: DEBUG: SV_Move function FOUND 0xF6FA54F0
+L 12/02/2021 - 12:23:15: DEBUG: m_iId parse member, value is 47
+L 12/02/2021 - 12:23:15: DEBUG: m_pActiveItem parse member, value is 378
+L 12/02/2021 - 12:23:15: DEBUG: SV_EmitEvents function FOUND 0xF6F87A30
+L 12/02/2021 - 12:23:15: DEBUG: SV_WriteEntitiesToClient function FOUND 0xF6F89200
+L 12/02/2021 - 12:23:15: DEBUG: SV_EmitEvents address was FOUND inside SV_WriteEntitiesToClient function 0xF6F894D1
+L 12/02/2021 - 12:23:15: DEBUG: SV_EmitEvents function PATCH SUCCEED 0xF6F894D1
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function FOUND 0xF6F81410
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_1 function 0xF6F700E5
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F700E5
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_2 function 0xF6F95599
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F95599
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_3 function 0xF6F9883D
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F9883D
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_4 function 0xF6F9893E
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F9893E
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_5 function 0xF6F9910F
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F9910F
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_6 function 0xF6F991BD
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F991BD
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_7 function 0xF6F9925D
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F9925D
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_8 function 0xF6F992E3
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F992E3
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_9 function 0xF6F99335
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F99335
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_10 function 0xF6F9937C
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F9937C
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_11 function 0xF6F993C3
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F993C3
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound address was FOUND inside unk_12 function 0xF6F99412
+L 12/02/2021 - 12:23:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F99412
+L 12/02/2021 - 12:23:15: DEBUG: PF_Remove_I function FOUND 0xF6F717B0
+L 12/02/2021 - 12:23:15: DEBUG: ED_Free address was FOUND inside PF_Remove_I function 0xF6F717B0
+L 12/02/2021 - 12:23:15: DEBUG: ED_Free function PATCH SUCCEED 0xF6F717B0
+L 12/02/2021 - 12:23:15: DEBUG: PF_BuildSoundMsg_I function FOUND 0xF6F74940
+L 12/02/2021 - 12:23:15: DEBUG: PF_BuildSoundMsg_I patch address to inside function in PF_BuildSoundMsg_I PATCH SUCCEED 0xF6F74940
+L 12/02/2021 - 12:23:15: DEBUG: MSG_StartBitWriting function FOUND 0xF6F43EA0
+L 12/02/2021 - 12:23:15: DEBUG: MSG_WriteBits function FOUND 0xF6F45040
+L 12/02/2021 - 12:23:15: DEBUG: MSG_WriteBitVec3Coord function FOUND 0xF6F45CB0
+L 12/02/2021 - 12:23:15: DEBUG: MSG_EndBitWriting function FOUND 0xF6F45750
+L 12/02/2021 - 12:23:15: DEBUG: SV_LookupSoundIndex function FOUND 0xF6F80B40
+L 12/02/2021 - 12:23:15: DEBUG: SZ_GetSpace function FOUND 0xF6F44F20
+L 12/02/2021 - 12:23:15: Success: Patch executed.
+L 12/02/2021 - 12:23:15: PrivateData Offsets: ->
+pev			- '0'
+vtable			- '8'
+playership		- '53'
+m_iId			- '47'
+m_pActiveItem		- '378'
+m_blindStartTime	- '520'
+m_blindHoldTime		- '521'
+m_blindAlpha		- '523'
+L 12/02/2021 - 12:23:15: Success: Build HLDS version defined Linux '8308' (cstrike)
+L 12/02/2021 - 12:23:15: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 12/02/2021 - 12:23:15: Building PAS...
+L 12/02/2021 - 12:23:15: Average leaves visible / audible / total: 48 / 92 / 97
+L 12/02/2021 - 12:23:15: PAS building time 0.000165 secs
+L 12/02/2021 - 12:23:16: DEBUG: GameRules found 0xA9E7058
+L 12/02/2021 - 12:23:16: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 12:23:16: Building PAS...
+L 12/02/2021 - 12:23:16: Average leaves visible / audible / total: 133 / 395 / 1202
+L 12/02/2021 - 12:23:16: PAS building time 0.006429 secs
+L 12/02/2021 - 19:53:30: DEBUG: GameRules found 0xA9E7058
+L 12/02/2021 - 19:53:30: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 19:53:30: Building PAS...
+L 12/02/2021 - 19:53:30: Average leaves visible / audible / total: 151 / 385 / 1238
+L 12/02/2021 - 19:53:30: PAS building time 0.006809 secs
+L 12/02/2021 - 19:57:21: DEBUG: GameRules found 0xA9E7058
+L 12/02/2021 - 19:57:21: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 19:57:21: Building PAS...
+L 12/02/2021 - 19:57:21: Average leaves visible / audible / total: 48 / 92 / 97
+L 12/02/2021 - 19:57:21: PAS building time 0.000165 secs
+L 12/02/2021 - 20:01:49: DEBUG: GameRules found 0xA9E6A78
+L 12/02/2021 - 20:01:49: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 20:01:49: Building PAS...
+L 12/02/2021 - 20:01:49: Average leaves visible / audible / total: 133 / 395 / 1202
+L 12/02/2021 - 20:01:49: PAS building time 0.006503 secs
+L 12/02/2021 - 20:51:47: DEBUG: GameRules found 0xA9E6A68
+L 12/02/2021 - 20:51:47: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 20:51:47: Building PAS...
+L 12/02/2021 - 20:51:47: Average leaves visible / audible / total: 150 / 552 / 1459
+L 12/02/2021 - 20:51:47: PAS building time 0.009559 secs
+L 12/02/2021 - 21:27:25: DEBUG: GameRules found 0xA9E6A68
+L 12/02/2021 - 21:27:25: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 21:27:25: Building PAS...
+L 12/02/2021 - 21:27:25: Average leaves visible / audible / total: 143 / 546 / 1860
+L 12/02/2021 - 21:27:25: PAS building time 0.014366 secs
+L 12/02/2021 - 22:06:30: DEBUG: GameRules found 0xA9E6A68
+L 12/02/2021 - 22:06:30: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 22:06:30: Building PAS...
+L 12/02/2021 - 22:06:30: Average leaves visible / audible / total: 151 / 385 / 1238
+L 12/02/2021 - 22:06:30: PAS building time 0.006865 secs
+L 12/02/2021 - 22:40:03: DEBUG: GameRules found 0xA9E6A68
+L 12/02/2021 - 22:40:03: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 22:40:03: Building PAS...
+L 12/02/2021 - 22:40:03: Average leaves visible / audible / total: 133 / 395 / 1202
+L 12/02/2021 - 22:40:03: PAS building time 0.006483 secs
+L 12/02/2021 - 23:05:16: DEBUG: GameRules found 0xA9E6A68
+L 12/02/2021 - 23:05:16: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 23:05:16: Building PAS...
+L 12/02/2021 - 23:05:16: Average leaves visible / audible / total: 150 / 552 / 1459
+L 12/02/2021 - 23:05:16: PAS building time 0.00946 secs
+L 12/02/2021 - 23:41:34: DEBUG: GameRules found 0xA9E6A68
+L 12/02/2021 - 23:41:34: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/02/2021 - 23:41:34: Building PAS...
+L 12/02/2021 - 23:41:34: Average leaves visible / audible / total: 143 / 546 / 1860
+L 12/02/2021 - 23:41:34: PAS building time 0.014273 secs

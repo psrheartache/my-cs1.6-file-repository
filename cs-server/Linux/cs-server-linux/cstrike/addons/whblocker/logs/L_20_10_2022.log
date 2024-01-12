@@ -1,0 +1,6 @@
+L 10/20/2022 - 23:40:39: Log file started (file 'cstrike/addons/whblocker/logs/L_20_10_2022.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 10/20/2022 - 23:40:39: DEBUG: GameRules found 0xAF54B20
+L 10/20/2022 - 23:40:39: Changelevel Server (map 'de_nuke') (maxplayers '24') (use 'global_svs->maxplayers')
+L 10/20/2022 - 23:40:39: Building PAS...
+L 10/20/2022 - 23:40:39: Average leaves visible / audible / total: 151 / 385 / 1238
+L 10/20/2022 - 23:40:39: PAS building time 0.016597 secs

@@ -1,0 +1,356 @@
+L 09/12/2022 - 12:59:15: Log file started (file 'cstrike/addons/whblocker/logs/L_12_09_2022.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 09/12/2022 - 12:59:15: Success: Configuration executed.
+L 09/12/2022 - 12:59:15: DEBUG: SVS found 0xF7411760
+L 09/12/2022 - 12:59:15: DEBUG: SV_CheckTimeouts function FOUND 0xF6FAEDD0
+L 09/12/2022 - 12:59:15: DEBUG: client_t address of a structure FOUND 0xF6FAEE01
+L 09/12/2022 - 12:59:15: DEBUG: client_t determined the size of a the structure 20216
+L 09/12/2022 - 12:59:15: DEBUG: SV_Move function FOUND 0xF6FCD4F0
+L 09/12/2022 - 12:59:15: DEBUG: m_iId parse member, value is 47
+L 09/12/2022 - 12:59:15: DEBUG: m_pActiveItem parse member, value is 378
+L 09/12/2022 - 12:59:15: DEBUG: SV_EmitEvents function FOUND 0xF6FAFA30
+L 09/12/2022 - 12:59:15: DEBUG: SV_WriteEntitiesToClient function FOUND 0xF6FB1200
+L 09/12/2022 - 12:59:15: DEBUG: SV_EmitEvents address was FOUND inside SV_WriteEntitiesToClient function 0xF6FB14D1
+L 09/12/2022 - 12:59:15: DEBUG: SV_EmitEvents function PATCH SUCCEED 0xF6FB14D1
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function FOUND 0xF6FA9410
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_1 function 0xF6F980E5
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F980E5
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_2 function 0xF6FBD599
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FBD599
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_3 function 0xF6FC083D
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FC083D
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_4 function 0xF6FC093E
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FC093E
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_5 function 0xF6FC110F
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FC110F
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_6 function 0xF6FC11BD
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FC11BD
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_7 function 0xF6FC125D
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FC125D
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_8 function 0xF6FC12E3
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FC12E3
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_9 function 0xF6FC1335
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FC1335
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_10 function 0xF6FC137C
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FC137C
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_11 function 0xF6FC13C3
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FC13C3
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound address was FOUND inside unk_12 function 0xF6FC1412
+L 09/12/2022 - 12:59:15: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FC1412
+L 09/12/2022 - 12:59:15: DEBUG: PF_Remove_I function FOUND 0xF6F997B0
+L 09/12/2022 - 12:59:15: DEBUG: ED_Free address was FOUND inside PF_Remove_I function 0xF6F997B0
+L 09/12/2022 - 12:59:15: DEBUG: ED_Free function PATCH SUCCEED 0xF6F997B0
+L 09/12/2022 - 12:59:15: DEBUG: PF_BuildSoundMsg_I function FOUND 0xF6F9C940
+L 09/12/2022 - 12:59:15: DEBUG: PF_BuildSoundMsg_I patch address to inside function in PF_BuildSoundMsg_I PATCH SUCCEED 0xF6F9C940
+L 09/12/2022 - 12:59:15: DEBUG: MSG_StartBitWriting function FOUND 0xF6F6BEA0
+L 09/12/2022 - 12:59:15: DEBUG: MSG_WriteBits function FOUND 0xF6F6D040
+L 09/12/2022 - 12:59:15: DEBUG: MSG_WriteBitVec3Coord function FOUND 0xF6F6DCB0
+L 09/12/2022 - 12:59:15: DEBUG: MSG_EndBitWriting function FOUND 0xF6F6D750
+L 09/12/2022 - 12:59:15: DEBUG: SV_LookupSoundIndex function FOUND 0xF6FA8B40
+L 09/12/2022 - 12:59:15: DEBUG: SZ_GetSpace function FOUND 0xF6F6CF20
+L 09/12/2022 - 12:59:15: Success: Patch executed.
+L 09/12/2022 - 12:59:15: PrivateData Offsets: ->
+pev			- '0'
+vtable			- '8'
+playership		- '53'
+m_iId			- '47'
+m_pActiveItem		- '378'
+m_blindStartTime	- '520'
+m_blindHoldTime		- '521'
+m_blindAlpha		- '523'
+L 09/12/2022 - 12:59:15: Success: Build HLDS version defined Linux '8308' (cstrike)
+L 09/12/2022 - 12:59:15: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 09/12/2022 - 12:59:15: Building PAS...
+L 09/12/2022 - 12:59:15: Average leaves visible / audible / total: 48 / 92 / 97
+L 09/12/2022 - 12:59:15: PAS building time 0.000176 secs
+L 09/12/2022 - 12:59:16: DEBUG: GameRules found 0x9DEBBB8
+L 09/12/2022 - 12:59:16: Changelevel Server (map 'cs_bloodstrike') (maxplayers '15') (use 'global_svs->maxplayers')
+L 09/12/2022 - 12:59:16: Building PAS...
+L 09/12/2022 - 12:59:16: Average leaves visible / audible / total: 48 / 92 / 97
+L 09/12/2022 - 12:59:16: PAS building time 0.000173 secs
+L 09/12/2022 - 13:10:14: DEBUG: GameRules found 0x9DEBBB8
+L 09/12/2022 - 13:10:14: Changelevel Server (map 'cs_bloodstrike') (maxplayers '15') (use 'global_svs->maxplayers')
+L 09/12/2022 - 13:16:07: Success: Configuration executed.
+L 09/12/2022 - 13:16:07: DEBUG: SVS found 0xF7429760
+L 09/12/2022 - 13:16:07: DEBUG: SV_CheckTimeouts function FOUND 0xF6FC6DD0
+L 09/12/2022 - 13:16:07: DEBUG: client_t address of a structure FOUND 0xF6FC6E01
+L 09/12/2022 - 13:16:07: DEBUG: client_t determined the size of a the structure 20216
+L 09/12/2022 - 13:16:07: DEBUG: SV_Move function FOUND 0xF6FE54F0
+L 09/12/2022 - 13:16:07: DEBUG: m_iId parse member, value is 47
+L 09/12/2022 - 13:16:07: DEBUG: m_pActiveItem parse member, value is 378
+L 09/12/2022 - 13:16:07: DEBUG: SV_EmitEvents function FOUND 0xF6FC7A30
+L 09/12/2022 - 13:16:07: DEBUG: SV_WriteEntitiesToClient function FOUND 0xF6FC9200
+L 09/12/2022 - 13:16:07: DEBUG: SV_EmitEvents address was FOUND inside SV_WriteEntitiesToClient function 0xF6FC94D1
+L 09/12/2022 - 13:16:07: DEBUG: SV_EmitEvents function PATCH SUCCEED 0xF6FC94D1
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function FOUND 0xF6FC1410
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_1 function 0xF6FB00E5
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FB00E5
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_2 function 0xF6FD5599
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD5599
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_3 function 0xF6FD883D
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD883D
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_4 function 0xF6FD893E
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD893E
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_5 function 0xF6FD910F
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD910F
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_6 function 0xF6FD91BD
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD91BD
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_7 function 0xF6FD925D
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD925D
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_8 function 0xF6FD92E3
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD92E3
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_9 function 0xF6FD9335
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD9335
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_10 function 0xF6FD937C
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD937C
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_11 function 0xF6FD93C3
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD93C3
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound address was FOUND inside unk_12 function 0xF6FD9412
+L 09/12/2022 - 13:16:07: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FD9412
+L 09/12/2022 - 13:16:07: DEBUG: PF_Remove_I function FOUND 0xF6FB17B0
+L 09/12/2022 - 13:16:07: DEBUG: ED_Free address was FOUND inside PF_Remove_I function 0xF6FB17B0
+L 09/12/2022 - 13:16:07: DEBUG: ED_Free function PATCH SUCCEED 0xF6FB17B0
+L 09/12/2022 - 13:16:07: DEBUG: PF_BuildSoundMsg_I function FOUND 0xF6FB4940
+L 09/12/2022 - 13:16:07: DEBUG: PF_BuildSoundMsg_I patch address to inside function in PF_BuildSoundMsg_I PATCH SUCCEED 0xF6FB4940
+L 09/12/2022 - 13:16:07: DEBUG: MSG_StartBitWriting function FOUND 0xF6F83EA0
+L 09/12/2022 - 13:16:07: DEBUG: MSG_WriteBits function FOUND 0xF6F85040
+L 09/12/2022 - 13:16:07: DEBUG: MSG_WriteBitVec3Coord function FOUND 0xF6F85CB0
+L 09/12/2022 - 13:16:07: DEBUG: MSG_EndBitWriting function FOUND 0xF6F85750
+L 09/12/2022 - 13:16:07: DEBUG: SV_LookupSoundIndex function FOUND 0xF6FC0B40
+L 09/12/2022 - 13:16:07: DEBUG: SZ_GetSpace function FOUND 0xF6F84F20
+L 09/12/2022 - 13:16:07: Success: Patch executed.
+L 09/12/2022 - 13:16:07: PrivateData Offsets: ->
+pev			- '0'
+vtable			- '8'
+playership		- '53'
+m_iId			- '47'
+m_pActiveItem		- '378'
+m_blindStartTime	- '520'
+m_blindHoldTime		- '521'
+m_blindAlpha		- '523'
+L 09/12/2022 - 13:16:07: Success: Build HLDS version defined Linux '8308' (cstrike)
+L 09/12/2022 - 13:16:07: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 09/12/2022 - 13:16:07: Building PAS...
+L 09/12/2022 - 13:16:07: Average leaves visible / audible / total: 48 / 92 / 97
+L 09/12/2022 - 13:16:07: PAS building time 0.000176 secs
+L 09/12/2022 - 13:16:09: DEBUG: GameRules found 0x9B55A18
+L 09/12/2022 - 13:16:09: Changelevel Server (map 'cs_bloodstrike') (maxplayers '15') (use 'global_svs->maxplayers')
+L 09/12/2022 - 14:45:16: Success: Configuration executed.
+L 09/12/2022 - 14:45:16: DEBUG: SVS found 0xF73D0760
+L 09/12/2022 - 14:45:16: DEBUG: SV_CheckTimeouts function FOUND 0xF6F6DDD0
+L 09/12/2022 - 14:45:16: DEBUG: client_t address of a structure FOUND 0xF6F6DE01
+L 09/12/2022 - 14:45:16: DEBUG: client_t determined the size of a the structure 20216
+L 09/12/2022 - 14:45:16: DEBUG: SV_Move function FOUND 0xF6F8C4F0
+L 09/12/2022 - 14:45:16: DEBUG: m_iId parse member, value is 47
+L 09/12/2022 - 14:45:16: DEBUG: m_pActiveItem parse member, value is 378
+L 09/12/2022 - 14:45:16: DEBUG: SV_EmitEvents function FOUND 0xF6F6EA30
+L 09/12/2022 - 14:45:16: DEBUG: SV_WriteEntitiesToClient function FOUND 0xF6F70200
+L 09/12/2022 - 14:45:16: DEBUG: SV_EmitEvents address was FOUND inside SV_WriteEntitiesToClient function 0xF6F704D1
+L 09/12/2022 - 14:45:16: DEBUG: SV_EmitEvents function PATCH SUCCEED 0xF6F704D1
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function FOUND 0xF6F68410
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_1 function 0xF6F570E5
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F570E5
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_2 function 0xF6F7C599
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F7C599
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_3 function 0xF6F7F83D
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F7F83D
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_4 function 0xF6F7F93E
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F7F93E
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_5 function 0xF6F8010F
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F8010F
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_6 function 0xF6F801BD
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F801BD
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_7 function 0xF6F8025D
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F8025D
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_8 function 0xF6F802E3
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F802E3
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_9 function 0xF6F80335
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F80335
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_10 function 0xF6F8037C
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F8037C
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_11 function 0xF6F803C3
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F803C3
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound address was FOUND inside unk_12 function 0xF6F80412
+L 09/12/2022 - 14:45:16: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F80412
+L 09/12/2022 - 14:45:16: DEBUG: PF_Remove_I function FOUND 0xF6F587B0
+L 09/12/2022 - 14:45:16: DEBUG: ED_Free address was FOUND inside PF_Remove_I function 0xF6F587B0
+L 09/12/2022 - 14:45:16: DEBUG: ED_Free function PATCH SUCCEED 0xF6F587B0
+L 09/12/2022 - 14:45:16: DEBUG: PF_BuildSoundMsg_I function FOUND 0xF6F5B940
+L 09/12/2022 - 14:45:16: DEBUG: PF_BuildSoundMsg_I patch address to inside function in PF_BuildSoundMsg_I PATCH SUCCEED 0xF6F5B940
+L 09/12/2022 - 14:45:16: DEBUG: MSG_StartBitWriting function FOUND 0xF6F2AEA0
+L 09/12/2022 - 14:45:16: DEBUG: MSG_WriteBits function FOUND 0xF6F2C040
+L 09/12/2022 - 14:45:16: DEBUG: MSG_WriteBitVec3Coord function FOUND 0xF6F2CCB0
+L 09/12/2022 - 14:45:16: DEBUG: MSG_EndBitWriting function FOUND 0xF6F2C750
+L 09/12/2022 - 14:45:16: DEBUG: SV_LookupSoundIndex function FOUND 0xF6F67B40
+L 09/12/2022 - 14:45:16: DEBUG: SZ_GetSpace function FOUND 0xF6F2BF20
+L 09/12/2022 - 14:45:16: Success: Patch executed.
+L 09/12/2022 - 14:45:16: PrivateData Offsets: ->
+pev			- '0'
+vtable			- '8'
+playership		- '53'
+m_iId			- '47'
+m_pActiveItem		- '378'
+m_blindStartTime	- '520'
+m_blindHoldTime		- '521'
+m_blindAlpha		- '523'
+L 09/12/2022 - 14:45:16: Success: Build HLDS version defined Linux '8308' (cstrike)
+L 09/12/2022 - 14:45:16: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 09/12/2022 - 14:45:16: Building PAS...
+L 09/12/2022 - 14:45:16: Average leaves visible / audible / total: 48 / 92 / 97
+L 09/12/2022 - 14:45:16: PAS building time 0.000179 secs
+L 09/12/2022 - 14:45:17: DEBUG: GameRules found 0xA396A18
+L 09/12/2022 - 14:45:17: Changelevel Server (map 'cs_bloodstrike') (maxplayers '15') (use 'global_svs->maxplayers')
+L 09/12/2022 - 15:03:06: Success: Configuration executed.
+L 09/12/2022 - 15:03:06: DEBUG: SVS found 0xF734F760
+L 09/12/2022 - 15:03:06: DEBUG: SV_CheckTimeouts function FOUND 0xF6EECDD0
+L 09/12/2022 - 15:03:06: DEBUG: client_t address of a structure FOUND 0xF6EECE01
+L 09/12/2022 - 15:03:06: DEBUG: client_t determined the size of a the structure 20216
+L 09/12/2022 - 15:03:06: DEBUG: SV_Move function FOUND 0xF6F0B4F0
+L 09/12/2022 - 15:03:06: DEBUG: m_iId parse member, value is 47
+L 09/12/2022 - 15:03:06: DEBUG: m_pActiveItem parse member, value is 378
+L 09/12/2022 - 15:03:06: DEBUG: SV_EmitEvents function FOUND 0xF6EEDA30
+L 09/12/2022 - 15:03:06: DEBUG: SV_WriteEntitiesToClient function FOUND 0xF6EEF200
+L 09/12/2022 - 15:03:06: DEBUG: SV_EmitEvents address was FOUND inside SV_WriteEntitiesToClient function 0xF6EEF4D1
+L 09/12/2022 - 15:03:06: DEBUG: SV_EmitEvents function PATCH SUCCEED 0xF6EEF4D1
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function FOUND 0xF6EE7410
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_1 function 0xF6ED60E5
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6ED60E5
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_2 function 0xF6EFB599
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFB599
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_3 function 0xF6EFE83D
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFE83D
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_4 function 0xF6EFE93E
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFE93E
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_5 function 0xF6EFF10F
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFF10F
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_6 function 0xF6EFF1BD
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFF1BD
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_7 function 0xF6EFF25D
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFF25D
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_8 function 0xF6EFF2E3
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFF2E3
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_9 function 0xF6EFF335
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFF335
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_10 function 0xF6EFF37C
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFF37C
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_11 function 0xF6EFF3C3
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFF3C3
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound address was FOUND inside unk_12 function 0xF6EFF412
+L 09/12/2022 - 15:03:06: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6EFF412
+L 09/12/2022 - 15:03:06: DEBUG: PF_Remove_I function FOUND 0xF6ED77B0
+L 09/12/2022 - 15:03:06: DEBUG: ED_Free address was FOUND inside PF_Remove_I function 0xF6ED77B0
+L 09/12/2022 - 15:03:06: DEBUG: ED_Free function PATCH SUCCEED 0xF6ED77B0
+L 09/12/2022 - 15:03:06: DEBUG: PF_BuildSoundMsg_I function FOUND 0xF6EDA940
+L 09/12/2022 - 15:03:06: DEBUG: PF_BuildSoundMsg_I patch address to inside function in PF_BuildSoundMsg_I PATCH SUCCEED 0xF6EDA940
+L 09/12/2022 - 15:03:06: DEBUG: MSG_StartBitWriting function FOUND 0xF6EA9EA0
+L 09/12/2022 - 15:03:06: DEBUG: MSG_WriteBits function FOUND 0xF6EAB040
+L 09/12/2022 - 15:03:06: DEBUG: MSG_WriteBitVec3Coord function FOUND 0xF6EABCB0
+L 09/12/2022 - 15:03:06: DEBUG: MSG_EndBitWriting function FOUND 0xF6EAB750
+L 09/12/2022 - 15:03:06: DEBUG: SV_LookupSoundIndex function FOUND 0xF6EE6B40
+L 09/12/2022 - 15:03:06: DEBUG: SZ_GetSpace function FOUND 0xF6EAAF20
+L 09/12/2022 - 15:03:06: Success: Patch executed.
+L 09/12/2022 - 15:03:06: PrivateData Offsets: ->
+pev			- '0'
+vtable			- '8'
+playership		- '53'
+m_iId			- '47'
+m_pActiveItem		- '378'
+m_blindStartTime	- '520'
+m_blindHoldTime		- '521'
+m_blindAlpha		- '523'
+L 09/12/2022 - 15:03:06: Success: Build HLDS version defined Linux '8308' (cstrike)
+L 09/12/2022 - 15:03:06: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 09/12/2022 - 15:03:06: Building PAS...
+L 09/12/2022 - 15:03:06: Average leaves visible / audible / total: 48 / 92 / 97
+L 09/12/2022 - 15:03:06: PAS building time 0.000193 secs
+L 09/12/2022 - 15:03:07: DEBUG: GameRules found 0x90EBA18
+L 09/12/2022 - 15:03:07: Changelevel Server (map 'cs_bloodstrike') (maxplayers '15') (use 'global_svs->maxplayers')
+L 09/12/2022 - 15:03:07: Building PAS...
+L 09/12/2022 - 15:03:07: Average leaves visible / audible / total: 133 / 395 / 1202
+L 09/12/2022 - 15:03:07: PAS building time 0.006789 secs
+L 09/12/2022 - 23:25:18: DEBUG: GameRules found 0x90EBA18
+L 09/12/2022 - 23:25:18: Changelevel Server (map 'de_dust2') (maxplayers '15') (use 'global_svs->maxplayers')
+L 09/12/2022 - 23:25:18: Building PAS...
+L 09/12/2022 - 23:25:18: Average leaves visible / audible / total: 48 / 92 / 97
+L 09/12/2022 - 23:25:18: PAS building time 0.0002 secs
+L 09/12/2022 - 23:25:40: DEBUG: GameRules found 0x9148878
+L 09/12/2022 - 23:25:40: Changelevel Server (map 'cs_bloodstrike') (maxplayers '15') (use 'global_svs->maxplayers')
+L 09/12/2022 - 23:25:40: Building PAS...
+L 09/12/2022 - 23:25:40: Average leaves visible / audible / total: 133 / 395 / 1202
+L 09/12/2022 - 23:25:40: PAS building time 0.006663 secs
+L 09/12/2022 - 23:28:53: DEBUG: GameRules found 0x9148878
+L 09/12/2022 - 23:28:53: Changelevel Server (map 'de_dust2') (maxplayers '15') (use 'global_svs->maxplayers')
+L 09/12/2022 - 23:28:53: Building PAS...
+L 09/12/2022 - 23:28:53: Average leaves visible / audible / total: 150 / 552 / 1459
+L 09/12/2022 - 23:28:53: PAS building time 0.009951 secs

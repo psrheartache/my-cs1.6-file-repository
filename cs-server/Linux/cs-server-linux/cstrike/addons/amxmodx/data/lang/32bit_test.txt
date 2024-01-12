@@ -1,0 +1,14 @@
+﻿[en]
+WELCOME = 本服务器强制使用32bit
+WELCOME_ANS1 = 我使用的是32bit,可以开始测试.
+WELCOME_ANS2 = 我使用的是16bit,我推出再来.
+WELCOME_ANS4 = 关于什么是16bit和32bit
+WELCOME_ANS5 = 我知道如何测试 - 使用快速测试版本!
+CHOOSE_PICTURE = 选择一张与其他不同的图片：
+DETAILS = <span style='line-height:25px'>在下面你会看到8张图片.<br/>如果你是使用32bit的话,其中一张图片是有一条黑色的条纹.<br/>按(OK)或按ENTER键后在菜单上选择该张图片.</span>
+STAGE = 阶段
+SHOW_AGAIN = 再看一次图片
+TEST_OK = 测试通过,恭喜你有资格进行游戏.
+TEST_BAD = 测试错误,你还有 %d 次机会.
+TEST_BAD_1_TRY_LEFT = 测试错误,你只剩下1次机会.
+MORE_INFO = <span style='line-height:23px'>在游戏选项你能选择16bit和32bit<br/><br/>烟雾弹效果在16bit简直就是透明的<br/>而烟雾弹效果在32bit除了用AWP的开双倍镜外一般格著烟雾很难看清人的<br/>所有比赛都是要求32bit<br/><br/>如何设置32-bit?<br/>游戏还项 -> 影像 -> 顏色品质: 高级 (32-bit)</span>

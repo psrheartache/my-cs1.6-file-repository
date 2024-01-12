@@ -1,0 +1,127 @@
+L 03/30/2022 - 16:31:19: Log file started (file 'cstrike/addons/whblocker/logs/L_30_03_2022.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 03/30/2022 - 16:31:19: Success: Configuration executed.
+L 03/30/2022 - 16:31:19: DEBUG: SVS found 0xF7390760
+L 03/30/2022 - 16:31:19: DEBUG: SV_CheckTimeouts function FOUND 0xF6F2DDD0
+L 03/30/2022 - 16:31:19: DEBUG: client_t address of a structure FOUND 0xF6F2DE01
+L 03/30/2022 - 16:31:19: DEBUG: client_t determined the size of a the structure 20216
+L 03/30/2022 - 16:31:19: DEBUG: SV_Move function FOUND 0xF6F4C4F0
+L 03/30/2022 - 16:31:19: DEBUG: m_iId parse member, value is 47
+L 03/30/2022 - 16:31:19: DEBUG: m_pActiveItem parse member, value is 378
+L 03/30/2022 - 16:31:19: DEBUG: SV_EmitEvents function FOUND 0xF6F2EA30
+L 03/30/2022 - 16:31:19: DEBUG: SV_WriteEntitiesToClient function FOUND 0xF6F30200
+L 03/30/2022 - 16:31:19: DEBUG: SV_EmitEvents address was FOUND inside SV_WriteEntitiesToClient function 0xF6F304D1
+L 03/30/2022 - 16:31:19: DEBUG: SV_EmitEvents function PATCH SUCCEED 0xF6F304D1
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function FOUND 0xF6F28410
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_1 function 0xF6F170E5
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F170E5
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_2 function 0xF6F3C599
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F3C599
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_3 function 0xF6F3F83D
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F3F83D
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_4 function 0xF6F3F93E
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F3F93E
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_5 function 0xF6F4010F
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F4010F
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_6 function 0xF6F401BD
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F401BD
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_7 function 0xF6F4025D
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F4025D
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_8 function 0xF6F402E3
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F402E3
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_9 function 0xF6F40335
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F40335
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_10 function 0xF6F4037C
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F4037C
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_11 function 0xF6F403C3
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F403C3
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound address was FOUND inside unk_12 function 0xF6F40412
+L 03/30/2022 - 16:31:19: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F40412
+L 03/30/2022 - 16:31:19: DEBUG: PF_Remove_I function FOUND 0xF6F187B0
+L 03/30/2022 - 16:31:19: DEBUG: ED_Free address was FOUND inside PF_Remove_I function 0xF6F187B0
+L 03/30/2022 - 16:31:19: DEBUG: ED_Free function PATCH SUCCEED 0xF6F187B0
+L 03/30/2022 - 16:31:19: DEBUG: PF_BuildSoundMsg_I function FOUND 0xF6F1B940
+L 03/30/2022 - 16:31:19: DEBUG: PF_BuildSoundMsg_I patch address to inside function in PF_BuildSoundMsg_I PATCH SUCCEED 0xF6F1B940
+L 03/30/2022 - 16:31:19: DEBUG: MSG_StartBitWriting function FOUND 0xF6EEAEA0
+L 03/30/2022 - 16:31:19: DEBUG: MSG_WriteBits function FOUND 0xF6EEC040
+L 03/30/2022 - 16:31:19: DEBUG: MSG_WriteBitVec3Coord function FOUND 0xF6EECCB0
+L 03/30/2022 - 16:31:19: DEBUG: MSG_EndBitWriting function FOUND 0xF6EEC750
+L 03/30/2022 - 16:31:19: DEBUG: SV_LookupSoundIndex function FOUND 0xF6F27B40
+L 03/30/2022 - 16:31:19: DEBUG: SZ_GetSpace function FOUND 0xF6EEBF20
+L 03/30/2022 - 16:31:19: Success: Patch executed.
+L 03/30/2022 - 16:31:19: PrivateData Offsets: ->
+pev			- '0'
+vtable			- '8'
+playership		- '53'
+m_iId			- '47'
+m_pActiveItem		- '378'
+m_blindStartTime	- '520'
+m_blindHoldTime		- '521'
+m_blindAlpha		- '523'
+L 03/30/2022 - 16:31:19: Success: Build HLDS version defined Linux '8308' (cstrike)
+L 03/30/2022 - 16:31:19: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 03/30/2022 - 16:31:19: Building PAS...
+L 03/30/2022 - 16:31:19: Average leaves visible / audible / total: 48 / 92 / 97
+L 03/30/2022 - 16:31:19: PAS building time 0.000162 secs
+L 03/30/2022 - 16:31:22: DEBUG: GameRules found 0xA4341E8
+L 03/30/2022 - 16:31:22: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/30/2022 - 16:31:22: Building PAS...
+L 03/30/2022 - 16:31:22: Average leaves visible / audible / total: 142 / 369 / 2212
+L 03/30/2022 - 16:31:22: PAS building time 0.019432 secs
+L 03/30/2022 - 17:16:32: DEBUG: GameRules found 0xA4341E8
+L 03/30/2022 - 17:16:32: Changelevel Server (map 'de_airstrip') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/30/2022 - 17:16:32: Building PAS...
+L 03/30/2022 - 17:16:32: Average leaves visible / audible / total: 219 / 703 / 3694
+L 03/30/2022 - 17:16:32: PAS building time 0.058442 secs
+L 03/30/2022 - 18:01:42: DEBUG: GameRules found 0xA4EA9B0
+L 03/30/2022 - 18:01:42: Changelevel Server (map 'cs_havana') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/30/2022 - 18:01:42: Building PAS...
+L 03/30/2022 - 18:01:42: Average leaves visible / audible / total: 181 / 722 / 2672
+L 03/30/2022 - 18:01:42: PAS building time 0.029486 secs
+L 03/30/2022 - 18:46:51: DEBUG: GameRules found 0xA4EA9B0
+L 03/30/2022 - 18:46:51: Changelevel Server (map 'de_chateau') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/30/2022 - 18:46:51: Building PAS...
+L 03/30/2022 - 18:46:51: Average leaves visible / audible / total: 103 / 294 / 800
+L 03/30/2022 - 18:46:51: PAS building time 0.002691 secs
+L 03/30/2022 - 19:32:01: DEBUG: GameRules found 0xA4ED2B0
+L 03/30/2022 - 19:32:01: Changelevel Server (map 'de_aztec') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/30/2022 - 19:32:01: Building PAS...
+L 03/30/2022 - 19:32:01: Average leaves visible / audible / total: 48 / 92 / 97
+L 03/30/2022 - 19:32:01: PAS building time 0.000135 secs
+L 03/30/2022 - 19:38:06: DEBUG: GameRules found 0xA4ED2B0
+L 03/30/2022 - 19:38:06: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/30/2022 - 19:38:06: Building PAS...
+L 03/30/2022 - 19:38:06: Average leaves visible / audible / total: 133 / 395 / 1202
+L 03/30/2022 - 19:38:06: PAS building time 0.006345 secs
+L 03/30/2022 - 20:51:14: DEBUG: GameRules found 0xA4ED2B0
+L 03/30/2022 - 20:51:14: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/30/2022 - 20:51:14: Building PAS...
+L 03/30/2022 - 20:51:14: Average leaves visible / audible / total: 150 / 552 / 1459
+L 03/30/2022 - 20:51:14: PAS building time 0.009346 secs
+L 03/30/2022 - 21:15:51: DEBUG: GameRules found 0xA509230
+L 03/30/2022 - 21:15:51: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/30/2022 - 21:15:51: Building PAS...
+L 03/30/2022 - 21:15:51: Average leaves visible / audible / total: 143 / 546 / 1860
+L 03/30/2022 - 21:15:51: PAS building time 0.01416 secs
+L 03/30/2022 - 21:55:09: DEBUG: GameRules found 0xA4DF3B8
+L 03/30/2022 - 21:55:09: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 03/30/2022 - 21:55:09: Building PAS...
+L 03/30/2022 - 21:55:09: Average leaves visible / audible / total: 48 / 92 / 97
+L 03/30/2022 - 21:55:09: PAS building time 0.000148 secs

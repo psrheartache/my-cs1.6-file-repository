@@ -1,0 +1,127 @@
+L 10/23/2021 - 21:56:10: Log file started (file 'cstrike/addons/whblocker/logs/L_23_10_2021.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 10/23/2021 - 21:56:10: Success: Configuration executed.
+L 10/23/2021 - 21:56:10: DEBUG: SVS found 0xF73F2760
+L 10/23/2021 - 21:56:10: DEBUG: SV_CheckTimeouts function FOUND 0xF6F8FDD0
+L 10/23/2021 - 21:56:10: DEBUG: client_t address of a structure FOUND 0xF6F8FE01
+L 10/23/2021 - 21:56:10: DEBUG: client_t determined the size of a the structure 20216
+L 10/23/2021 - 21:56:10: DEBUG: SV_Move function FOUND 0xF6FAE4F0
+L 10/23/2021 - 21:56:10: DEBUG: m_iId parse member, value is 47
+L 10/23/2021 - 21:56:10: DEBUG: m_pActiveItem parse member, value is 378
+L 10/23/2021 - 21:56:10: DEBUG: SV_EmitEvents function FOUND 0xF6F90A30
+L 10/23/2021 - 21:56:10: DEBUG: SV_WriteEntitiesToClient function FOUND 0xF6F92200
+L 10/23/2021 - 21:56:10: DEBUG: SV_EmitEvents address was FOUND inside SV_WriteEntitiesToClient function 0xF6F924D1
+L 10/23/2021 - 21:56:10: DEBUG: SV_EmitEvents function PATCH SUCCEED 0xF6F924D1
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function FOUND 0xF6F8A410
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_1 function 0xF6F790E5
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F790E5
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_2 function 0xF6F9E599
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6F9E599
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_3 function 0xF6FA183D
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FA183D
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_4 function 0xF6FA193E
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FA193E
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_5 function 0xF6FA210F
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FA210F
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_6 function 0xF6FA21BD
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FA21BD
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_7 function 0xF6FA225D
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FA225D
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_8 function 0xF6FA22E3
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FA22E3
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_9 function 0xF6FA2335
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FA2335
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_10 function 0xF6FA237C
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FA237C
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_11 function 0xF6FA23C3
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FA23C3
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound address was FOUND inside unk_12 function 0xF6FA2412
+L 10/23/2021 - 21:56:10: DEBUG: SV_StartSound function PATCH SUCCEED 0xF6FA2412
+L 10/23/2021 - 21:56:10: DEBUG: PF_Remove_I function FOUND 0xF6F7A7B0
+L 10/23/2021 - 21:56:10: DEBUG: ED_Free address was FOUND inside PF_Remove_I function 0xF6F7A7B0
+L 10/23/2021 - 21:56:10: DEBUG: ED_Free function PATCH SUCCEED 0xF6F7A7B0
+L 10/23/2021 - 21:56:10: DEBUG: PF_BuildSoundMsg_I function FOUND 0xF6F7D940
+L 10/23/2021 - 21:56:10: DEBUG: PF_BuildSoundMsg_I patch address to inside function in PF_BuildSoundMsg_I PATCH SUCCEED 0xF6F7D940
+L 10/23/2021 - 21:56:10: DEBUG: MSG_StartBitWriting function FOUND 0xF6F4CEA0
+L 10/23/2021 - 21:56:10: DEBUG: MSG_WriteBits function FOUND 0xF6F4E040
+L 10/23/2021 - 21:56:10: DEBUG: MSG_WriteBitVec3Coord function FOUND 0xF6F4ECB0
+L 10/23/2021 - 21:56:10: DEBUG: MSG_EndBitWriting function FOUND 0xF6F4E750
+L 10/23/2021 - 21:56:10: DEBUG: SV_LookupSoundIndex function FOUND 0xF6F89B40
+L 10/23/2021 - 21:56:10: DEBUG: SZ_GetSpace function FOUND 0xF6F4DF20
+L 10/23/2021 - 21:56:10: Success: Patch executed.
+L 10/23/2021 - 21:56:10: PrivateData Offsets: ->
+pev			- '0'
+vtable			- '8'
+playership		- '53'
+m_iId			- '47'
+m_pActiveItem		- '378'
+m_blindStartTime	- '520'
+m_blindHoldTime		- '521'
+m_blindAlpha		- '523'
+L 10/23/2021 - 21:56:10: Success: Build HLDS version defined Linux '8308' (cstrike)
+L 10/23/2021 - 21:56:10: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 10/23/2021 - 21:56:10: Building PAS...
+L 10/23/2021 - 21:56:10: Average leaves visible / audible / total: 48 / 92 / 97
+L 10/23/2021 - 21:56:10: PAS building time 0.000178 secs
+L 10/23/2021 - 21:56:10: DEBUG: GameRules found 0x9E141E8
+L 10/23/2021 - 21:56:10: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/23/2021 - 21:56:10: Building PAS...
+L 10/23/2021 - 21:56:10: Average leaves visible / audible / total: 133 / 395 / 1202
+L 10/23/2021 - 21:56:10: PAS building time 0.006472 secs
+L 10/23/2021 - 21:58:34: DEBUG: GameRules found 0x9E141E8
+L 10/23/2021 - 21:58:34: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/23/2021 - 21:58:34: Building PAS...
+L 10/23/2021 - 21:58:34: Average leaves visible / audible / total: 48 / 92 / 97
+L 10/23/2021 - 21:58:34: PAS building time 0.000205 secs
+L 10/23/2021 - 21:59:02: DEBUG: GameRules found 0x9ED7B38
+L 10/23/2021 - 21:59:02: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/23/2021 - 21:59:02: Building PAS...
+L 10/23/2021 - 21:59:02: Average leaves visible / audible / total: 133 / 395 / 1202
+L 10/23/2021 - 21:59:02: PAS building time 0.006514 secs
+L 10/23/2021 - 22:01:45: DEBUG: GameRules found 0x9ED7B38
+L 10/23/2021 - 22:01:45: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/23/2021 - 22:01:45: Building PAS...
+L 10/23/2021 - 22:01:45: Average leaves visible / audible / total: 48 / 92 / 97
+L 10/23/2021 - 22:01:45: PAS building time 0.000152 secs
+L 10/23/2021 - 22:03:45: DEBUG: GameRules found 0x9ED7B38
+L 10/23/2021 - 22:03:45: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/23/2021 - 22:03:45: Building PAS...
+L 10/23/2021 - 22:03:45: Average leaves visible / audible / total: 133 / 395 / 1202
+L 10/23/2021 - 22:03:45: PAS building time 0.006562 secs
+L 10/23/2021 - 22:12:52: DEBUG: GameRules found 0x9FF9D70
+L 10/23/2021 - 22:12:52: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/23/2021 - 22:12:52: Building PAS...
+L 10/23/2021 - 22:12:52: Average leaves visible / audible / total: 150 / 552 / 1459
+L 10/23/2021 - 22:12:52: PAS building time 0.009567 secs
+L 10/23/2021 - 22:45:17: DEBUG: GameRules found 0x9EAF6D0
+L 10/23/2021 - 22:45:17: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/23/2021 - 22:45:17: Building PAS...
+L 10/23/2021 - 22:45:17: Average leaves visible / audible / total: 143 / 546 / 1860
+L 10/23/2021 - 22:45:17: PAS building time 0.014387 secs
+L 10/23/2021 - 23:19:46: DEBUG: GameRules found 0x9EAAA68
+L 10/23/2021 - 23:19:46: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/23/2021 - 23:19:46: Building PAS...
+L 10/23/2021 - 23:19:46: Average leaves visible / audible / total: 151 / 385 / 1238
+L 10/23/2021 - 23:19:46: PAS building time 0.006999 secs
+L 10/23/2021 - 23:44:12: DEBUG: GameRules found 0x9EAAA68
+L 10/23/2021 - 23:44:12: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/23/2021 - 23:44:12: Building PAS...
+L 10/23/2021 - 23:44:12: Average leaves visible / audible / total: 194 / 585 / 1689
+L 10/23/2021 - 23:44:12: PAS building time 0.013608 secs

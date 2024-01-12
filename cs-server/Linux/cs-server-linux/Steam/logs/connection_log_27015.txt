@@ -1,0 +1,176 @@
+
+
+[2021-10-11 15:26:14] Log session started
+[2021-10-11 15:26:14] [0,0] SetSteamID( [A:1:0:0] )
+[2021-10-11 15:26:14] [0,0] Server says 0% of connections should be websockets, we rolled 7 - using UDP as default.
+[2021-10-11 15:26:14] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api for launcher type 'default'. . .
+[2021-10-11 15:26:15] CCMInterface::YieldingConnect -- got 100 CMs and 100 WebSocket CMS from ISteamDirectory/GetCMList.
+[2021-10-11 15:26:15] [0,0] PingWebSocketCM() (cm1-tyo2.cm.steampowered.com:27034) starting...
+[2021-10-11 15:26:15] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27031) starting...
+[2021-10-11 15:26:15] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27028) starting...
+[2021-10-11 15:26:15] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27033) starting...
+[2021-10-11 15:26:15] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27031) results: 129.8652ms + load 56.0000
+[2021-10-11 15:26:15] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27037) starting...
+[2021-10-11 15:26:16] [0,0] PingWebSocketCM() (cm1-tyo2.cm.steampowered.com:27034) results: 225.4958ms + load 54.0000
+[2021-10-11 15:26:16] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27032) starting...
+[2021-10-11 15:26:16] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27033) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-11 15:26:16] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27028) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-11 15:26:16] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27036) starting...
+[2021-10-11 15:26:16] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27038) starting...
+[2021-10-11 15:26:16] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27037) results: 139.6711ms + load 57.0000
+[2021-10-11 15:26:16] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27039) starting...
+[2021-10-11 15:26:17] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27039) results: 128.8652ms + load 55.0000
+[2021-10-11 15:26:17] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27030) starting...
+[2021-10-11 15:26:17] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27032) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-11 15:26:17] [0,0] PingWebSocketCM() (cm2-hkg1.cm.steampowered.com:443) starting...
+[2021-10-11 15:26:17] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27038) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-11 15:26:17] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27036) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-11 15:26:17] [0,0] PingWebSocketCM() (cm3-sgp1.cm.steampowered.com:27022) starting...
+[2021-10-11 15:26:17] [0,0] PingWebSocketCM() (cm2-tyo1.cm.steampowered.com:27022) starting...
+[2021-10-11 15:26:17] [0,0] PingWebSocketCM() (cm2-hkg1.cm.steampowered.com:443) results: 53.5765ms + load 88.0000
+[2021-10-11 15:26:18] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27030) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-11 15:26:18] [0,0] PingWebSocketCM() (cm3-sgp1.cm.steampowered.com:27022) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-11 15:26:18] [0,0] PingWebSocketCM() (cm2-tyo1.cm.steampowered.com:27022) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-11 15:26:18] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-hkg1.cm.steampowered.com:443, WebSocket)
+[2021-10-11 15:26:18] [1,3] ConnectionCompleted() (153.254.86.163:443, WebSocket)
+[2021-10-11 15:26:18] [1,3] RecvMsgClientLogOnResponse() : [A:1:2409111559:18622] 'OK'
+
+
+[2021-10-11 18:02:06] Log session started
+[2021-10-11 18:02:06] [0,0] SetSteamID( [A:1:0:0] )
+[2021-10-11 18:02:06] [0,0] Server says 50% of connections should be websockets, we rolled 64 - using UDP as default.
+[2021-10-11 18:02:06] [0,0] PingWebSocketCM() (cm2-hkg1.cm.steampowered.com:443) starting...
+[2021-10-11 18:02:06] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27039) starting...
+[2021-10-11 18:02:06] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27031) starting...
+[2021-10-11 18:02:06] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27037) starting...
+[2021-10-11 18:02:06] [0,0] PingWebSocketCM() (cm2-hkg1.cm.steampowered.com:443) results: 76.4955ms + load 106.0000
+[2021-10-11 18:02:06] [0,0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2021-10-11 18:02:06] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27031) results: 134.6076ms + load 61.0000
+[2021-10-11 18:02:06] [0,0] PingWebSocketCM() (cm4-sgp1.cm.steampowered.com:27022) starting...
+[2021-10-11 18:02:06] [0,0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:443) results: 46.3786ms + load 60.0000
+[2021-10-11 18:02:06] [0,0] PingWebSocketCM() stopping after 400.00ms timeout and using good enough host (cm2-cu-sha1.cm.wmsjsteam.com:443)
+[2021-10-11 18:02:07] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27037) results: 139.5372ms + load 62.0000
+[2021-10-11 18:02:07] [0,0] PingWebSocketCM() (cm2-tyo2.cm.steampowered.com:27039) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-11 18:02:07] [0,0] PingWebSocketCM() (cm4-sgp1.cm.steampowered.com:27022) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-11 18:02:07] [1,3] Connect() starting connection (eNetQOSLevelMedium, cm2-cu-sha1.cm.wmsjsteam.com:443, WebSocket)
+[2021-10-11 18:02:07] [1,3] ConnectionCompleted() (140.206.230.139:443, WebSocket)
+[2021-10-11 18:02:08] [1,3] RecvMsgClientLogOnResponse() : [A:1:684975115:18623] 'OK'
+[2021-10-13 07:17:51] [0,0] ConnectionDisconnected('I/O Operation Failed') : 'OK' (140.206.230.139:443, WebSocket)
+[2021-10-13 07:17:51] [0,0] StartAutoReconnect() will start in 12 seconds
+[2021-10-13 07:18:03] [0,0] Server says 50% of connections should be websockets, we rolled 61 - using UDP as default.
+[2021-10-13 07:18:03] [0,0] Existing WebSocket ping data (cm2-hkg1.cm.steampowered.com:443) results: 76.4955ms + load 106.0000 (134157 seconds ago)
+[2021-10-13 07:18:03] [0,0] Existing WebSocket ping data (cm2-cu-sha1.cm.wmsjsteam.com:443) results: 46.3786ms + load 60.0000 (134157 seconds ago)
+[2021-10-13 07:18:03] [0,0] PingWebSocketCM() (cm1-sgp1.cm.steampowered.com:27023) starting...
+[2021-10-13 07:18:03] [0,0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27021) starting...
+[2021-10-13 07:18:03] [0,0] PingWebSocketCM() (cm2-tyo1.cm.steampowered.com:27023) starting...
+[2021-10-13 07:18:03] [0,0] PingWebSocketCM() (cm1-sgp1.cm.steampowered.com:27024) starting...
+[2021-10-13 07:18:04] [0,0] PingWebSocketCM() (cm2-tyo1.cm.steampowered.com:27023) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-13 07:18:04] [0,0] PingWebSocketCM() (cm1-sgp1.cm.steampowered.com:27024) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-13 07:18:04] [0,0] PingWebSocketCM() (cm1-sgp1.cm.steampowered.com:27023) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-13 07:18:04] [0,0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27021) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-13 07:18:04] [0,0] PingWebSocketCM() stopping after 400.00ms timeout and using good enough host (cm2-cu-sha1.cm.wmsjsteam.com:443)
+[2021-10-13 07:18:04] [1,7] Connect() starting connection (eNetQOSLevelLow, cm2-cu-sha1.cm.wmsjsteam.com:443, WebSocket)
+[2021-10-13 07:19:04] [1,0] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2021-10-13 07:19:04] [0,0] StartAutoReconnect() will start in 17 seconds
+[2021-10-13 07:19:21] [0,0] Server says 50% of connections should be websockets, we rolled 91 - using UDP as default.
+[2021-10-13 07:19:21] [0,0] Existing WebSocket ping data (cm2-tyo1.cm.steampowered.com:27023) results: 100000.0000ms + load 0.0000 (77 seconds ago)
+[2021-10-13 07:19:21] [0,0] Existing WebSocket ping data (cm2-tyo1.cm.steampowered.com:27023) results: 100000.0000ms + load 0.0000 (77 seconds ago)
+[2021-10-13 07:19:21] [0,0] Existing WebSocket ping data (cm2-hkg1.cm.steampowered.com:443) results: 76.4955ms + load 106.0000 (134235 seconds ago)
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:27021) starting...
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:443) starting...
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27022) starting...
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27020) starting...
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:27021) results: 62.5000ms + load 120.0000
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:27020) starting...
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:443) results: 62.5000ms + load 118.0000
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27021) starting...
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27020) results: 78.1250ms + load 118.0000
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:27021) starting...
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm2-cu-sha1.cm.wmsjsteam.com:27022) results: 78.1250ms + load 125.0000
+[2021-10-13 07:19:21] [0,0] PingWebSocketCM() (cm2-sgp1.cm.steampowered.com:443) starting...
+[2021-10-13 07:19:22] [0,0] PingWebSocketCM() (cm3-cu-sha1.cm.wmsjsteam.com:27020) results: 46.8750ms + load 137.0000
+[2021-10-13 07:19:22] [0,0] PingWebSocketCM() (cm2-ct-sha1.cm.wmsjsteam.com:27022) starting...
+[2021-10-13 07:19:22] [0,0] PingWebSocketCM() (cm4-cu-sha1.cm.wmsjsteam.com:27021) results: 46.8750ms + load 143.0000
+[2021-10-13 07:19:22] [0,0] PingWebSocketCM() (cm2-tyo1.cm.steampowered.com:27023) starting...
+[2021-10-13 07:19:22] [0,0] PingWebSocketCM() (cm1-ct-sha1.cm.wmsjsteam.com:27021) results: 46.8750ms + load 118.0000
+[2021-10-13 07:19:22] [0,0] PingWebSocketCM() (cm4-sgp1.cm.steampowered.com:27025) starting...
+[2021-10-13 07:19:22] [0,0] PingWebSocketCM() (cm2-ct-sha1.cm.wmsjsteam.com:27022) results: 46.8750ms + load 91.0000
+[2021-10-13 07:19:22] [0,0] PingWebSocketCM() stopping after 400.00ms timeout and using good enough host (cm2-ct-sha1.cm.wmsjsteam.com:27022)
+[2021-10-13 07:19:22] [0,0] PingWebSocketCM() (cm2-sgp1.cm.steampowered.com:443) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-13 07:19:22] [0,0] PingWebSocketCM() (cm4-sgp1.cm.steampowered.com:27025) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-13 07:19:23] [0,0] PingWebSocketCM() (cm2-tyo1.cm.steampowered.com:27023) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-13 07:19:23] [1,11] Connect() starting connection (eNetQOSLevelLow, cm2-ct-sha1.cm.wmsjsteam.com:27022, WebSocket)
+[2021-10-13 07:19:23] [1,11] ConnectionCompleted() (101.226.183.186:27022, WebSocket)
+[2021-10-13 07:19:23] [1,11] RecvMsgClientLogOnResponse() : [A:1:684975115:18623] 'OK'
+[2021-10-14 02:47:56] [0,0] ConnectionDisconnected('I/O Operation Failed') : 'OK' (101.226.183.186:27022, WebSocket)
+[2021-10-14 02:47:56] [0,0] StartAutoReconnect() will start in 18 seconds
+[2021-10-14 02:48:14] [0,0] Server says 50% of connections should be websockets, we rolled 46 - using WebSockets as default.
+[2021-10-14 02:48:14] [0,0] Existing WebSocket ping data (cm1-sgp1.cm.steampowered.com:27023) results: 100000.0000ms + load 0.0000 (70210 seconds ago)
+[2021-10-14 02:48:14] [0,0] Existing WebSocket ping data (cm2-cu-sha1.cm.wmsjsteam.com:27022) results: 78.1250ms + load 125.0000 (70133 seconds ago)
+[2021-10-14 02:48:14] [0,0] Existing WebSocket ping data (cm2-cu-sha1.cm.wmsjsteam.com:27020) results: 78.1250ms + load 118.0000 (70133 seconds ago)
+[2021-10-14 02:48:14] [0,0] Existing WebSocket ping data (cm2-hkg1.cm.steampowered.com:443) results: 76.4955ms + load 106.0000 (204368 seconds ago)
+[2021-10-14 02:48:14] [0,0] Existing WebSocket ping data (cm2-cu-sha1.cm.wmsjsteam.com:443) results: 62.5000ms + load 118.0000 (70133 seconds ago)
+[2021-10-14 02:48:14] [0,0] Existing WebSocket ping data (cm1-cu-sha1.cm.wmsjsteam.com:27021) results: 62.5000ms + load 120.0000 (70133 seconds ago)
+[2021-10-14 02:48:14] [0,0] Existing WebSocket ping data (cm3-cu-sha1.cm.wmsjsteam.com:27020) results: 46.8750ms + load 137.0000 (70132 seconds ago)
+[2021-10-14 02:48:14] [0,0] Existing WebSocket ping data (cm1-ct-sha1.cm.wmsjsteam.com:27021) results: 46.8750ms + load 118.0000 (70132 seconds ago)
+[2021-10-14 02:48:14] [0,0] Existing WebSocket ping data (cm4-cu-sha1.cm.wmsjsteam.com:27021) results: 46.8750ms + load 143.0000 (70132 seconds ago)
+[2021-10-14 02:48:14] [0,0] Existing WebSocket ping data (cm2-ct-sha1.cm.wmsjsteam.com:27022) results: 46.8750ms + load 91.0000 (70132 seconds ago)
+[2021-10-14 02:48:14] [0,0] PingWebSocketCM() (cm4-hkg1.cm.steampowered.com:27026) starting...
+[2021-10-14 02:48:14] [0,0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:27022) starting...
+[2021-10-14 02:48:14] [0,0] PingWebSocketCM() (cm4-sgp1.cm.steampowered.com:27023) starting...
+[2021-10-14 02:48:14] [0,0] PingWebSocketCM() (cm1-sgp1.cm.steampowered.com:27023) starting...
+[2021-10-14 02:48:14] [0,0] PingWebSocketCM() (cm1-cu-sha1.cm.wmsjsteam.com:27022) results: 46.8750ms + load 52.0000
+[2021-10-14 02:48:14] [0,0] PingWebSocketCM() (cm4-hkg1.cm.steampowered.com:27026) results: 78.1250ms + load 65.0000
+[2021-10-14 02:48:15] [0,0] PingWebSocketCM() (cm4-sgp1.cm.steampowered.com:27023) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-14 02:48:15] [0,0] PingWebSocketCM() (cm1-sgp1.cm.steampowered.com:27023) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-14 02:48:15] [1,15] Connect() starting connection (eNetQOSLevelLow, cm1-cu-sha1.cm.wmsjsteam.com:27022, WebSocket)
+[2021-10-14 02:48:15] [1,15] ConnectionCompleted() (140.206.230.138:27022, WebSocket)
+[2021-10-14 02:48:15] [1,15] RecvMsgClientLogOnResponse() : [A:1:684975115:18623] 'OK'
+[2021-10-14 08:40:06] [3,15] RecvMsgClientLoggedOff('Service Unavailable')
+[2021-10-14 08:40:06] [3,15] AsyncDisconnect()
+[2021-10-14 08:40:06] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Service Unavailable' (140.206.230.138:27022, WebSocket)
+[2021-10-14 08:40:06] [0,0] StartAutoReconnect() will start in 6 seconds
+[2021-10-14 08:40:12] [0,0] Server says 50% of connections should be websockets, we rolled 36 - using WebSockets as default.
+[2021-10-14 08:40:12] [0,0] Existing WebSocket ping data (cm2-cu-sha1.cm.wmsjsteam.com:27022) results: 78.1250ms + load 125.0000 (91251 seconds ago)
+[2021-10-14 08:40:12] [0,0] Existing WebSocket ping data (cm4-hkg1.cm.steampowered.com:27026) results: 78.1250ms + load 65.0000 (21118 seconds ago)
+[2021-10-14 08:40:12] [0,0] Existing WebSocket ping data (cm2-hkg1.cm.steampowered.com:443) results: 76.4955ms + load 106.0000 (225486 seconds ago)
+[2021-10-14 08:40:12] [0,0] Existing WebSocket ping data (cm2-cu-sha1.cm.wmsjsteam.com:443) results: 62.5000ms + load 118.0000 (91251 seconds ago)
+[2021-10-14 08:40:12] [0,0] Existing WebSocket ping data (cm1-cu-sha1.cm.wmsjsteam.com:27021) results: 62.5000ms + load 120.0000 (91251 seconds ago)
+[2021-10-14 08:40:12] [0,0] Existing WebSocket ping data (cm2-ct-sha1.cm.wmsjsteam.com:27022) results: 46.8750ms + load 91.0000 (91250 seconds ago)
+[2021-10-14 08:40:12] [0,0] Existing WebSocket ping data (cm1-cu-sha1.cm.wmsjsteam.com:27022) results: 46.8750ms + load 52.0000 (21118 seconds ago)
+[2021-10-14 08:40:12] [0,0] Existing WebSocket ping data (cm3-cu-sha1.cm.wmsjsteam.com:27020) results: 46.8750ms + load 137.0000 (91250 seconds ago)
+[2021-10-14 08:40:12] [0,0] Existing WebSocket ping data (cm1-ct-sha1.cm.wmsjsteam.com:27021) results: 46.8750ms + load 118.0000 (91250 seconds ago)
+[2021-10-14 08:40:12] [0,0] Existing WebSocket ping data (cm4-cu-sha1.cm.wmsjsteam.com:27021) results: 46.8750ms + load 143.0000 (91250 seconds ago)
+[2021-10-14 08:40:12] [0,0] PingWebSocketCM() (cm2-tyo1.cm.steampowered.com:27026) starting...
+[2021-10-14 08:40:12] [0,0] PingWebSocketCM() (cm2-sgp1.cm.steampowered.com:27022) starting...
+[2021-10-14 08:40:12] [0,0] PingWebSocketCM() (cm4-ct-sha1.cm.wmsjsteam.com:27021) starting...
+[2021-10-14 08:40:12] [0,0] PingWebSocketCM() (cm4-ct-sha1.cm.wmsjsteam.com:27021) results: 31.2500ms + load 661.0000
+[2021-10-14 08:40:13] [0,0] PingWebSocketCM() (cm2-tyo1.cm.steampowered.com:27026) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-14 08:40:13] [0,0] PingWebSocketCM() (cm2-sgp1.cm.steampowered.com:27022) failed talking to cm (timeout/neterror - Invalid)
+[2021-10-14 08:40:13] [1,19] Connect() starting connection (eNetQOSLevelMedium, cm1-cu-sha1.cm.wmsjsteam.com:27022, WebSocket)
+[2021-10-14 08:40:13] [1,19] ConnectionCompleted() (140.206.230.138:27022, WebSocket)
+[2021-10-14 08:40:14] [1,19] RecvMsgClientLogOnResponse() : [A:1:684975115:18623] 'OK'
+[2021-10-15 06:58:40] [3,19] RecvMsgClientLoggedOff('Service Unavailable')
+[2021-10-15 06:58:40] [3,19] AsyncDisconnect()
+[2021-10-15 06:58:40] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Service Unavailable' (140.206.230.138:27022, WebSocket)
+[2021-10-15 06:58:40] [0,0] StartAutoReconnect() will start in 7 seconds
+[2021-10-15 06:58:47] [0,0] Server says 50% of connections should be websockets, we rolled 2 - using WebSockets as default.
+[2021-10-15 06:58:47] [0,0] Existing WebSocket ping data (cm2-cu-sha1.cm.wmsjsteam.com:27020) results: 78.1250ms + load 118.0000 (171566 seconds ago)
+[2021-10-15 06:58:47] [0,0] Existing WebSocket ping data (cm2-hkg1.cm.steampowered.com:443) results: 76.4955ms + load 106.0000 (305801 seconds ago)
+[2021-10-15 06:58:47] [0,0] Existing WebSocket ping data (cm2-cu-sha1.cm.wmsjsteam.com:443) results: 62.5000ms + load 118.0000 (171566 seconds ago)
+[2021-10-15 06:58:47] [0,0] Existing WebSocket ping data (cm1-cu-sha1.cm.wmsjsteam.com:27021) results: 62.5000ms + load 120.0000 (171566 seconds ago)
+[2021-10-15 06:58:47] [0,0] Existing WebSocket ping data (cm4-cu-sha1.cm.wmsjsteam.com:27021) results: 46.8750ms + load 143.0000 (171565 seconds ago)
+[2021-10-15 06:58:47] [0,0] Existing WebSocket ping data (cm2-ct-sha1.cm.wmsjsteam.com:27022) results: 46.8750ms + load 91.0000 (171565 seconds ago)
+[2021-10-15 06:58:47] [0,0] Existing WebSocket ping data (cm1-cu-sha1.cm.wmsjsteam.com:27022) results: 46.8750ms + load 52.0000 (101433 seconds ago)
+[2021-10-15 06:58:47] [0,0] Existing WebSocket ping data (cm3-cu-sha1.cm.wmsjsteam.com:27020) results: 46.8750ms + load 137.0000 (171565 seconds ago)
+[2021-10-15 06:58:47] [0,0] Existing WebSocket ping data (cm1-ct-sha1.cm.wmsjsteam.com:27021) results: 46.8750ms + load 118.0000 (171565 seconds ago)
+[2021-10-15 06:58:47] [0,0] Existing WebSocket ping data (cm4-ct-sha1.cm.wmsjsteam.com:27021) results: 31.2500ms + load 661.0000 (80315 seconds ago)
+[2021-10-15 06:58:47] [0,0] PingWebSocketCM() (cm1-tyo2.cm.steampowered.com:27028) starting...
+[2021-10-15 06:58:47] [0,0] PingWebSocketCM() (cm4-hkg1.cm.steampowered.com:27024) starting...
+[2021-10-15 06:58:47] [0,0] PingWebSocketCM() (cm1-hkg1.cm.steampowered.com:443) starting...
+[2021-10-15 06:58:47] [0,0] PingWebSocketCM() (cm1-hkg1.cm.steampowered.com:443) results: 62.5000ms + load 71.0000
+[2021-10-15 06:58:47] [0,0] PingWebSocketCM() (cm4-hkg1.cm.steampowered.com:27024) results: 62.5000ms + load 85.0000
+[2021-10-15 06:58:47] [0,0] PingWebSocketCM() (cm1-tyo2.cm.steampowered.com:27028) results: 93.7500ms + load 72.0000
+[2021-10-15 06:58:47] [1,23] Connect() starting connection (eNetQOSLevelLow, cm1-cu-sha1.cm.wmsjsteam.com:27022, WebSocket)
+[2021-10-15 06:58:48] [1,23] ConnectionCompleted() (140.206.230.138:27022, WebSocket)
+[2021-10-15 06:58:55] [0,23] RecvMsgClientLogOnResponse() : [A:1:684975115:18623] 'OK'

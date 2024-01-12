@@ -1,0 +1,31 @@
+L 09/24/2022 - 14:06:24: Log file started (file 'cstrike/addons/whblocker/logs/L_24_09_2022.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 09/24/2022 - 14:06:24: DEBUG: GameRules found 0xA2C7668
+L 09/24/2022 - 14:06:24: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 09/24/2022 - 14:06:24: Building PAS...
+L 09/24/2022 - 14:06:24: Average leaves visible / audible / total: 133 / 395 / 1202
+L 09/24/2022 - 14:06:24: PAS building time 0.006765 secs
+L 09/24/2022 - 14:51:43: DEBUG: GameRules found 0xA2C7668
+L 09/24/2022 - 14:51:43: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 09/24/2022 - 14:51:43: Building PAS...
+L 09/24/2022 - 14:51:43: Average leaves visible / audible / total: 48 / 92 / 97
+L 09/24/2022 - 14:51:43: PAS building time 0.000168 secs
+L 09/24/2022 - 18:02:09: DEBUG: GameRules found 0xA2C7668
+L 09/24/2022 - 18:02:09: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 09/24/2022 - 18:02:09: Building PAS...
+L 09/24/2022 - 18:02:09: Average leaves visible / audible / total: 151 / 385 / 1238
+L 09/24/2022 - 18:02:09: PAS building time 0.007081 secs
+L 09/24/2022 - 20:09:31: DEBUG: GameRules found 0xA2C7668
+L 09/24/2022 - 20:09:31: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 09/24/2022 - 20:09:31: Building PAS...
+L 09/24/2022 - 20:09:31: Average leaves visible / audible / total: 143 / 546 / 1860
+L 09/24/2022 - 20:09:31: PAS building time 0.014833 secs
+L 09/24/2022 - 23:34:12: DEBUG: GameRules found 0xA2C7668
+L 09/24/2022 - 23:34:12: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 09/24/2022 - 23:34:12: Building PAS...
+L 09/24/2022 - 23:34:12: Average leaves visible / audible / total: 48 / 92 / 97
+L 09/24/2022 - 23:34:12: PAS building time 0.000175 secs
+L 09/24/2022 - 23:57:25: DEBUG: GameRules found 0xA2C7668
+L 09/24/2022 - 23:57:25: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 09/24/2022 - 23:57:25: Building PAS...
+L 09/24/2022 - 23:57:25: Average leaves visible / audible / total: 143 / 546 / 1860
+L 09/24/2022 - 23:57:25: PAS building time 0.014976 secs

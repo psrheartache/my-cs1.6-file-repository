@@ -1,0 +1,56 @@
+L 04/06/2022 - 00:09:47: Log file started (file 'cstrike/addons/whblocker/logs/L_06_04_2022.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 04/06/2022 - 00:09:47: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 00:09:47: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 00:09:47: Building PAS...
+L 04/06/2022 - 00:09:47: Average leaves visible / audible / total: 48 / 92 / 97
+L 04/06/2022 - 00:09:47: PAS building time 0.000173 secs
+L 04/06/2022 - 00:12:11: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 00:12:11: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 00:12:11: Building PAS...
+L 04/06/2022 - 00:12:11: Average leaves visible / audible / total: 122 / 138 / 186
+L 04/06/2022 - 00:12:11: PAS building time 0.000341 secs
+L 04/06/2022 - 21:12:37: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 21:12:37: Changelevel Server (map 'ak47_m4a1_dust') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 21:12:37: Building PAS...
+L 04/06/2022 - 21:12:37: Average leaves visible / audible / total: 48 / 92 / 97
+L 04/06/2022 - 21:12:37: PAS building time 0.000121 secs
+L 04/06/2022 - 21:17:35: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 21:17:35: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 21:17:35: Building PAS...
+L 04/06/2022 - 21:17:35: Average leaves visible / audible / total: 48 / 92 / 97
+L 04/06/2022 - 21:17:35: PAS building time 0.000152 secs
+L 04/06/2022 - 22:09:14: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 22:09:14: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 22:09:14: Building PAS...
+L 04/06/2022 - 22:09:14: Average leaves visible / audible / total: 133 / 395 / 1202
+L 04/06/2022 - 22:09:14: PAS building time 0.006269 secs
+L 04/06/2022 - 22:15:18: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 22:15:18: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 22:15:18: Building PAS...
+L 04/06/2022 - 22:15:18: Average leaves visible / audible / total: 133 / 395 / 1202
+L 04/06/2022 - 22:15:18: PAS building time 0.006516 secs
+L 04/06/2022 - 22:15:53: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 22:15:53: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 22:15:53: Building PAS...
+L 04/06/2022 - 22:15:53: Average leaves visible / audible / total: 150 / 552 / 1459
+L 04/06/2022 - 22:15:53: PAS building time 0.009398 secs
+L 04/06/2022 - 22:44:05: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 22:44:05: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 22:44:05: Building PAS...
+L 04/06/2022 - 22:44:05: Average leaves visible / audible / total: 143 / 546 / 1860
+L 04/06/2022 - 22:44:05: PAS building time 0.014067 secs
+L 04/06/2022 - 23:19:55: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 23:19:55: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 23:19:55: Building PAS...
+L 04/06/2022 - 23:19:55: Average leaves visible / audible / total: 143 / 546 / 1860
+L 04/06/2022 - 23:19:55: PAS building time 0.014058 secs
+L 04/06/2022 - 23:20:11: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 23:20:11: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 23:20:11: Building PAS...
+L 04/06/2022 - 23:20:11: Average leaves visible / audible / total: 151 / 385 / 1238
+L 04/06/2022 - 23:20:11: PAS building time 0.006687 secs
+L 04/06/2022 - 23:42:47: DEBUG: GameRules found 0x9CB82E0
+L 04/06/2022 - 23:42:47: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 04/06/2022 - 23:42:47: Building PAS...
+L 04/06/2022 - 23:42:47: Average leaves visible / audible / total: 133 / 395 / 1202
+L 04/06/2022 - 23:42:47: PAS building time 0.006464 secs

@@ -1,0 +1,18 @@
+; -------------------------------------------------------
+; AGuard WalkGuard zone file
+; -------------------------------------------------------
+; <zone type> <position (x/y/z)> <mins (x/y/z)> <maxs (x/y/z)> [<parameter>] 
+;
+; Zone types:
+;    ag_wg_none - notify zone
+;    ag_wg_jtc - Jump-through-ceiling bug zone
+;    ag_wg_block - Block zone (prevent access to it)
+;    ag_wg_kill - Forbidden zone (kills a player who enters)
+; -------------------------------------------------------
+
+ag_wg_kill -704.5 -2143.3 122.3 -77 -87 -27 77 87 27
+ag_wg_jtc -356.2 -132.0 -40.5 -92 -57 -7 92 57 7
+ag_wg_jtc -816.4 959.4 -12.7 -73 -107 -11 73 107 11
+ag_wg_jtc 774.9 2289.4 119.3 -247 -157 -7 247 157 7
+ag_wg_jtc -89.0 1937.2 -12.5 -81 -77 -11 81 77 11
+ag_wg_block -176.5 511.6 -35.6 -31 -63 -115 31 63 115

@@ -1,0 +1,3 @@
+L 10/15/2021 - 00:19:26: Log file started (file 'cstrike/addons/whblocker/logs/L_15_10_2021.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 10/15/2021 - 00:19:26: DEBUG: GameRules found 0xADC59B0
+L 10/15/2021 - 00:19:26: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')

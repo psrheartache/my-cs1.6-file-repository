@@ -1,0 +1,41 @@
+L 10/27/2021 - 21:23:30: Log file started (file 'cstrike/addons/whblocker/logs/L_27_10_2021.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 10/27/2021 - 21:23:30: DEBUG: GameRules found 0x9EAAA68
+L 10/27/2021 - 21:23:30: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/27/2021 - 21:23:30: Building PAS...
+L 10/27/2021 - 21:23:30: Average leaves visible / audible / total: 150 / 552 / 1459
+L 10/27/2021 - 21:23:30: PAS building time 0.009568 secs
+L 10/27/2021 - 21:56:21: DEBUG: GameRules found 0x9EAAA68
+L 10/27/2021 - 21:56:21: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/27/2021 - 21:56:21: Building PAS...
+L 10/27/2021 - 21:56:21: Average leaves visible / audible / total: 150 / 552 / 1459
+L 10/27/2021 - 21:56:21: PAS building time 0.009511 secs
+L 10/27/2021 - 21:56:31: DEBUG: GameRules found 0x9EAAA68
+L 10/27/2021 - 21:56:31: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/27/2021 - 21:56:31: Building PAS...
+L 10/27/2021 - 21:56:31: Average leaves visible / audible / total: 143 / 546 / 1860
+L 10/27/2021 - 21:56:31: PAS building time 0.014346 secs
+L 10/27/2021 - 22:45:18: DEBUG: GameRules found 0x9EAAA68
+L 10/27/2021 - 22:45:18: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/27/2021 - 22:45:18: Building PAS...
+L 10/27/2021 - 22:45:18: Average leaves visible / audible / total: 151 / 385 / 1238
+L 10/27/2021 - 22:45:18: PAS building time 0.006861 secs
+L 10/27/2021 - 23:11:12: DEBUG: GameRules found 0x9EAAA68
+L 10/27/2021 - 23:11:12: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/27/2021 - 23:11:12: Building PAS...
+L 10/27/2021 - 23:11:12: Average leaves visible / audible / total: 133 / 395 / 1202
+L 10/27/2021 - 23:11:12: PAS building time 0.006499 secs
+L 10/27/2021 - 23:50:07: DEBUG: GameRules found 0x9EAAA68
+L 10/27/2021 - 23:50:07: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/27/2021 - 23:50:07: Building PAS...
+L 10/27/2021 - 23:50:07: Average leaves visible / audible / total: 48 / 92 / 97
+L 10/27/2021 - 23:50:07: PAS building time 0.000161 secs
+L 10/27/2021 - 23:51:55: DEBUG: GameRules found 0x9EAAA68
+L 10/27/2021 - 23:51:55: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/27/2021 - 23:51:55: Building PAS...
+L 10/27/2021 - 23:51:55: Average leaves visible / audible / total: 133 / 395 / 1202
+L 10/27/2021 - 23:51:55: PAS building time 0.006491 secs
+L 10/27/2021 - 23:55:35: DEBUG: GameRules found 0x9EAAA68
+L 10/27/2021 - 23:55:35: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 10/27/2021 - 23:55:35: Building PAS...
+L 10/27/2021 - 23:55:35: Average leaves visible / audible / total: 150 / 552 / 1459
+L 10/27/2021 - 23:55:35: PAS building time 0.009466 secs

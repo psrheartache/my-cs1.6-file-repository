@@ -1,0 +1,16 @@
+
+
+[2021-10-11 15:26:14] Failed to read store 'install' from '/root/Steam/config/config.vdf.tmp'
+[2021-10-11 15:26:15] Flushed store 'install' to '/root/Steam/config/config.vdf'
+[2021-10-11 15:26:18] Flushed store 'install' to '/root/Steam/config/config.vdf'
+
+
+[2021-10-11 18:02:06] Loaded store 'install' from '/root/Steam/config/config.vdf' successfully
+[2021-10-11 18:02:08] Flushed store 'install' to '/root/Steam/config/config.vdf'
+[2021-10-13 07:18:05] Flushed store 'install' to '/root/Steam/config/config.vdf'
+[2021-10-13 07:19:23] Flushed store 'install' to '/root/Steam/config/config.vdf'
+[2021-10-14 02:48:16] Flushed store 'install' to '/root/Steam/config/config.vdf'
+[2021-10-14 08:40:14] Flushed store 'install' to '/root/Steam/config/config.vdf'
+[2021-10-14 08:40:14] Flushed store 'install' to '/root/Steam/config/config.vdf'
+[2021-10-15 06:58:48] Flushed store 'install' to '/root/Steam/config/config.vdf'
+[2021-10-15 06:58:55] Flushed store 'install' to '/root/Steam/config/config.vdf'

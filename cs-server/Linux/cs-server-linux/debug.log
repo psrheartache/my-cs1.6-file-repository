@@ -1,0 +1,414 @@
+----------------------------------------------
+CRASH: Fri May 22 04:54:01 UTC 2020
+Start Line: ./hlds_linux -game cstrike -strictportbind +ip 104.238.161.251 -port 27015 +clientport 27005 +map de_dust2 +servercfgfile csserver.cfg -maxplayers 16
+----------------------------------------------
+CRASH: 2022年 04月 03日 星期日 22:40:22 CST
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile server.cfg -condebug +insecure -pingboost 3 -port 8888 +maxplayers 20 +map cs_bloodstrike +sv_lan 0 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: 2022年 04月 11日 星期一 01:55:22 CST
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile server.cfg -condebug +insecure -pingboost 3 -port 27016 +maxplayers 20 +map cs_bloodstrike +sv_lan 0 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jul  8 08:55:10 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug -insecure -pingboost 3 -port 8888 +maxplayers 13 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jul  8 09:31:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug -insecure -pingboost 3 -port 8888 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jul  8 09:37:24 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug -insecure -pingboost 3 -port 8888 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jul  8 12:08:48 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug -insecure -pingboost 3 -port 8888 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Jul 13 09:03:38 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug -insecure -pingboost 3 -port 8888 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Jul 13 13:31:18 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile server.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 20 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Wed Jul 13 13:38:22 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Wed Jul 13 13:45:05 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Wed Jul 13 13:47:57 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Wed Jul 13 13:49:33 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Fri Jul 15 14:45:39 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Fri Jul 15 14:53:07 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 9999 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jul 15 15:43:18 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 9999 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jul 15 16:35:37 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 80 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jul 15 16:36:37 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 80 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Mon Jul 25 08:54:54 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 15 +map de_dust2 +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Jul 25 08:57:46 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Mon Jul 25 09:03:28 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile server.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 20 +map de_dust2 +sv_lan
+----------------------------------------------
+CRASH: Wed Aug 10 13:48:52 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Wed Aug 10 15:55:34 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Thu Aug 11 10:30:33 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 15 +map de_dust2 +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Tue Sep 13 18:28:28 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 28 +map cs_bloodstrike +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Sun Sep 18 17:22:06 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 20 +map cs_bloodstrike +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Sun Sep 18 18:41:33 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 20 +map cs_bloodstrike +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Sun Sep 18 18:57:12 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 6666 +maxplayers 20 +map cs_bloodstrike +sv_lan 0 -noipx -nojoy -nohltv
+----------------------------------------------
+CRASH: Wed Oct 19 15:44:04 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 24 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Oct 19 16:15:32 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 24 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Oct 19 16:21:51 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 24 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Oct 27 08:23:04 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27016 +maxplayers 30 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Nov  8 09:49:46 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 30 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Nov  8 09:55:46 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 9527 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Nov  8 09:55:56 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Nov  9 06:15:12 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Nov 10 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Nov 11 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Nov 12 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Nov 13 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Nov 13 22:10:28 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Nov 15 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Nov 16 06:15:12 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Nov 17 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Nov 18 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Nov 19 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Nov 20 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Nov 21 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Nov 21 22:21:42 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Nov 22 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Nov 23 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Nov 23 10:45:24 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Nov 23 17:04:48 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Nov 23 19:30:41 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Nov 24 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Nov 24 13:34:39 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Nov 25 06:15:12 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Nov 26 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Nov 27 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Nov 28 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Nov 28 18:35:36 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Nov 28 18:36:47 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 5555 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Nov 29 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 5555 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -noma
+----------------------------------------------
+CRASH: Tue Nov 29 09:53:14 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 5555 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Nov 30 06:15:12 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Dec  1 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Dec  2 06:15:12 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Dec  3 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Dec  4 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Dec  5 06:15:11 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Dec  6 06:15:12 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Dec  6 15:53:53 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Dec  6 16:11:18 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Dec  7 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Dec  8 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Dec  9 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Dec 10 06:15:02 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Dec 11 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Dec 12 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Dec 13 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Dec 14 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Dec 15 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Dec 16 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Dec 17 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Dec 18 06:15:02 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Dec 19 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Dec 20 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Dec 21 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Dec 22 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Dec 23 06:15:02 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Dec 24 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Dec 25 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Dec 26 06:15:02 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Dec 27 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Dec 28 06:15:02 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Dec 29 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Dec 30 06:15:02 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Dec 31 06:15:01 CST 2022
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Jan  1 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Jan  2 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Jan  3 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Jan  4 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Jan  5 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jan  6 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Jan  7 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Jan  8 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Jan  9 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Jan 10 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Jan 11 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Jan 12 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jan 13 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Jan 14 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Jan 15 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Jan 16 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Jan 17 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Jan 18 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Jan 19 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jan 20 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Jan 21 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Jan 22 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Jan 23 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Jan 24 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Jan 25 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Jan 26 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Jan 27 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Jan 28 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Jan 29 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Jan 29 11:01:15 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Jan 30 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Jan 31 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Feb  1 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Thu Feb  2 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Fri Feb  3 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sat Feb  4 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Sun Feb  5 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Mon Feb  6 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Tue Feb  7 06:15:02 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster
+----------------------------------------------
+CRASH: Wed Feb  8 06:15:01 CST 2023
+Start Line: ./hlds_linux -console -game cstrike +servercfgfile csserver.cfg -condebug +insecure -pingboost 3 -port 27015 +maxplayers 16 +map cs_bloodstrike +sv_lan 1 -noipx -nojoy -nohltv -nomaster

@@ -1,0 +1,56 @@
+L 07/16/2022 - 00:04:01: Log file started (file 'cstrike/addons/whblocker/logs/L_16_07_2022.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 07/16/2022 - 00:04:01: DEBUG: GameRules found 0xAA16750
+L 07/16/2022 - 00:04:01: Changelevel Server (map 'de_nuke') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 00:04:01: Building PAS...
+L 07/16/2022 - 00:04:01: Average leaves visible / audible / total: 133 / 395 / 1202
+L 07/16/2022 - 00:04:01: PAS building time 0.009724 secs
+L 07/16/2022 - 00:04:19: DEBUG: GameRules found 0xAA16750
+L 07/16/2022 - 00:04:19: Changelevel Server (map 'de_dust2') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 00:04:19: Building PAS...
+L 07/16/2022 - 00:04:19: Average leaves visible / audible / total: 150 / 552 / 1459
+L 07/16/2022 - 00:04:19: PAS building time 0.012607 secs
+L 07/16/2022 - 00:41:19: DEBUG: GameRules found 0xAACB508
+L 07/16/2022 - 00:41:19: Changelevel Server (map 'de_inferno') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 00:41:19: Building PAS...
+L 07/16/2022 - 00:41:19: Average leaves visible / audible / total: 48 / 92 / 97
+L 07/16/2022 - 00:41:19: PAS building time 0.000219 secs
+L 07/16/2022 - 00:43:12: DEBUG: GameRules found 0xAACB508
+L 07/16/2022 - 00:43:12: Changelevel Server (map 'cs_bloodstrike') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 00:43:12: Building PAS...
+L 07/16/2022 - 00:43:12: Average leaves visible / audible / total: 150 / 552 / 1459
+L 07/16/2022 - 00:43:12: PAS building time 0.011179 secs
+L 07/16/2022 - 00:44:55: DEBUG: GameRules found 0xAACB508
+L 07/16/2022 - 00:44:55: Changelevel Server (map 'de_inferno') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 00:44:55: Building PAS...
+L 07/16/2022 - 00:44:55: Average leaves visible / audible / total: 143 / 546 / 1860
+L 07/16/2022 - 00:44:55: PAS building time 0.017476 secs
+L 07/16/2022 - 01:30:00: DEBUG: GameRules found 0xAACB508
+L 07/16/2022 - 01:30:00: Changelevel Server (map 'de_nuke') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 01:30:00: Building PAS...
+L 07/16/2022 - 01:30:00: Average leaves visible / audible / total: 48 / 92 / 97
+L 07/16/2022 - 01:30:00: PAS building time 0.000224 secs
+L 07/16/2022 - 10:15:20: DEBUG: GameRules found 0xAACB508
+L 07/16/2022 - 10:15:20: Changelevel Server (map 'cs_bloodstrike') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 10:15:20: Building PAS...
+L 07/16/2022 - 10:15:20: Average leaves visible / audible / total: 148 / 164 / 182
+L 07/16/2022 - 10:15:20: PAS building time 0.000664 secs
+L 07/16/2022 - 10:15:33: DEBUG: GameRules found 0xAACB508
+L 07/16/2022 - 10:15:33: Changelevel Server (map 'aim_sk_ak_m4') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 10:15:33: Building PAS...
+L 07/16/2022 - 10:15:33: Average leaves visible / audible / total: 204 / 822 / 2484
+L 07/16/2022 - 10:15:33: PAS building time 0.036287 secs
+L 07/16/2022 - 10:17:37: DEBUG: GameRules found 0xAACB508
+L 07/16/2022 - 10:17:37: Changelevel Server (map 'de_nuke_spam_spots') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 10:17:37: Building PAS...
+L 07/16/2022 - 10:17:37: Average leaves visible / audible / total: 257 / 727 / 1207
+L 07/16/2022 - 10:17:37: PAS building time 0.010046 secs
+L 07/16/2022 - 10:17:53: DEBUG: GameRules found 0xAACB508
+L 07/16/2022 - 10:17:53: Changelevel Server (map 'de_train_spam_spots') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 10:17:53: Building PAS...
+L 07/16/2022 - 10:17:53: Average leaves visible / audible / total: 48 / 92 / 97
+L 07/16/2022 - 10:17:53: PAS building time 0.000201 secs
+L 07/16/2022 - 10:19:09: DEBUG: GameRules found 0xAACB508
+L 07/16/2022 - 10:19:09: Changelevel Server (map 'cs_bloodstrike') (maxplayers '15') (use 'global_svs->maxplayers')
+L 07/16/2022 - 10:19:09: Building PAS...
+L 07/16/2022 - 10:19:09: Average leaves visible / audible / total: 48 / 92 / 97
+L 07/16/2022 - 10:19:09: PAS building time 0.000206 secs

@@ -1,0 +1,31 @@
+L 01/15/2022 - 00:21:46: Log file started (file 'cstrike/addons/whblocker/logs/L_15_01_2022.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 01/15/2022 - 00:21:46: DEBUG: GameRules found 0xA0CAA68
+L 01/15/2022 - 00:21:46: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 01/15/2022 - 00:21:46: Building PAS...
+L 01/15/2022 - 00:21:46: Average leaves visible / audible / total: 48 / 92 / 97
+L 01/15/2022 - 00:21:46: PAS building time 0.000163 secs
+L 01/15/2022 - 01:06:22: DEBUG: GameRules found 0xA0CAA68
+L 01/15/2022 - 01:06:22: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 01/15/2022 - 01:06:22: Building PAS...
+L 01/15/2022 - 01:06:22: Average leaves visible / audible / total: 143 / 546 / 1860
+L 01/15/2022 - 01:06:22: PAS building time 0.014763 secs
+L 01/15/2022 - 01:31:14: DEBUG: GameRules found 0xA0CAA68
+L 01/15/2022 - 01:31:14: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 01/15/2022 - 01:31:14: Building PAS...
+L 01/15/2022 - 01:31:14: Average leaves visible / audible / total: 48 / 92 / 97
+L 01/15/2022 - 01:31:14: PAS building time 0.000177 secs
+L 01/15/2022 - 19:12:22: DEBUG: GameRules found 0xA0CAA68
+L 01/15/2022 - 19:12:22: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 01/15/2022 - 19:12:22: Building PAS...
+L 01/15/2022 - 19:12:22: Average leaves visible / audible / total: 133 / 395 / 1202
+L 01/15/2022 - 19:12:22: PAS building time 0.007034 secs
+L 01/15/2022 - 23:09:08: DEBUG: GameRules found 0xA0CAA68
+L 01/15/2022 - 23:09:08: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 01/15/2022 - 23:09:08: Building PAS...
+L 01/15/2022 - 23:09:08: Average leaves visible / audible / total: 150 / 552 / 1459
+L 01/15/2022 - 23:09:08: PAS building time 0.010808 secs
+L 01/15/2022 - 23:47:13: DEBUG: GameRules found 0xA0CAA68
+L 01/15/2022 - 23:47:13: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 01/15/2022 - 23:47:13: Building PAS...
+L 01/15/2022 - 23:47:13: Average leaves visible / audible / total: 143 / 546 / 1860
+L 01/15/2022 - 23:47:13: PAS building time 0.014637 secs

@@ -1,0 +1,21 @@
+L 12/27/2021 - 21:56:03: Log file started (file 'cstrike/addons/whblocker/logs/L_27_12_2021.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 12/27/2021 - 21:56:03: DEBUG: GameRules found 0xA0CAA68
+L 12/27/2021 - 21:56:03: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/27/2021 - 21:56:03: Building PAS...
+L 12/27/2021 - 21:56:03: Average leaves visible / audible / total: 150 / 552 / 1459
+L 12/27/2021 - 21:56:03: PAS building time 0.010031 secs
+L 12/27/2021 - 22:33:24: DEBUG: GameRules found 0xA0CAA68
+L 12/27/2021 - 22:33:24: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/27/2021 - 22:33:24: Building PAS...
+L 12/27/2021 - 22:33:24: Average leaves visible / audible / total: 143 / 546 / 1860
+L 12/27/2021 - 22:33:24: PAS building time 0.014763 secs
+L 12/27/2021 - 23:03:39: DEBUG: GameRules found 0xA0CAA68
+L 12/27/2021 - 23:03:39: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/27/2021 - 23:03:39: Building PAS...
+L 12/27/2021 - 23:03:39: Average leaves visible / audible / total: 151 / 385 / 1238
+L 12/27/2021 - 23:03:39: PAS building time 0.007383 secs
+L 12/27/2021 - 23:38:04: DEBUG: GameRules found 0xA0CAA68
+L 12/27/2021 - 23:38:04: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/27/2021 - 23:38:04: Building PAS...
+L 12/27/2021 - 23:38:04: Average leaves visible / audible / total: 133 / 395 / 1202
+L 12/27/2021 - 23:38:04: PAS building time 0.007043 secs

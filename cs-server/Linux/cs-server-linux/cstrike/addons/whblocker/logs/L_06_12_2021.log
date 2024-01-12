@@ -1,0 +1,71 @@
+L 12/06/2021 - 00:24:08: Log file started (file 'cstrike/addons/whblocker/logs/L_06_12_2021.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 12/06/2021 - 00:24:08: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 00:24:08: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 00:24:08: Building PAS...
+L 12/06/2021 - 00:24:08: Average leaves visible / audible / total: 151 / 385 / 1238
+L 12/06/2021 - 00:24:08: PAS building time 0.006861 secs
+L 12/06/2021 - 01:02:03: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 01:02:03: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 01:02:03: Building PAS...
+L 12/06/2021 - 01:02:03: Average leaves visible / audible / total: 133 / 395 / 1202
+L 12/06/2021 - 01:02:03: PAS building time 0.006507 secs
+L 12/06/2021 - 01:43:08: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 01:43:08: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 01:43:08: Building PAS...
+L 12/06/2021 - 01:43:08: Average leaves visible / audible / total: 48 / 92 / 97
+L 12/06/2021 - 01:43:08: PAS building time 0.000166 secs
+L 12/06/2021 - 01:43:25: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 01:43:25: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 01:43:25: Building PAS...
+L 12/06/2021 - 01:43:25: Average leaves visible / audible / total: 133 / 395 / 1202
+L 12/06/2021 - 01:43:25: PAS building time 0.006416 secs
+L 12/06/2021 - 21:00:19: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 21:00:19: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 21:00:19: Building PAS...
+L 12/06/2021 - 21:00:19: Average leaves visible / audible / total: 150 / 552 / 1459
+L 12/06/2021 - 21:00:19: PAS building time 0.009541 secs
+L 12/06/2021 - 21:34:35: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 21:34:35: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 21:34:35: Building PAS...
+L 12/06/2021 - 21:34:35: Average leaves visible / audible / total: 143 / 546 / 1860
+L 12/06/2021 - 21:34:35: PAS building time 0.014322 secs
+L 12/06/2021 - 22:11:56: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 22:11:56: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 22:11:56: Building PAS...
+L 12/06/2021 - 22:11:56: Average leaves visible / audible / total: 143 / 546 / 1860
+L 12/06/2021 - 22:11:56: PAS building time 0.014357 secs
+L 12/06/2021 - 22:12:06: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 22:12:06: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 22:12:06: Building PAS...
+L 12/06/2021 - 22:12:06: Average leaves visible / audible / total: 48 / 92 / 97
+L 12/06/2021 - 22:12:06: PAS building time 0.000157 secs
+L 12/06/2021 - 22:14:16: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 22:14:16: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 22:14:16: Building PAS...
+L 12/06/2021 - 22:14:16: Average leaves visible / audible / total: 143 / 546 / 1860
+L 12/06/2021 - 22:14:16: PAS building time 0.014304 secs
+L 12/06/2021 - 22:20:28: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 22:20:28: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 22:20:28: Building PAS...
+L 12/06/2021 - 22:20:28: Average leaves visible / audible / total: 151 / 385 / 1238
+L 12/06/2021 - 22:20:28: PAS building time 0.006816 secs
+L 12/06/2021 - 22:40:39: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 22:40:39: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 22:40:39: Building PAS...
+L 12/06/2021 - 22:40:39: Average leaves visible / audible / total: 133 / 395 / 1202
+L 12/06/2021 - 22:40:39: PAS building time 0.00653 secs
+L 12/06/2021 - 23:09:59: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 23:09:59: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 23:09:59: Building PAS...
+L 12/06/2021 - 23:09:59: Average leaves visible / audible / total: 150 / 552 / 1459
+L 12/06/2021 - 23:09:59: PAS building time 0.00947 secs
+L 12/06/2021 - 23:34:57: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 23:34:57: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 23:34:57: Building PAS...
+L 12/06/2021 - 23:34:57: Average leaves visible / audible / total: 150 / 552 / 1459
+L 12/06/2021 - 23:34:57: PAS building time 0.009513 secs
+L 12/06/2021 - 23:37:45: DEBUG: GameRules found 0xAF45E48
+L 12/06/2021 - 23:37:45: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/06/2021 - 23:37:45: Building PAS...
+L 12/06/2021 - 23:37:45: Average leaves visible / audible / total: 143 / 546 / 1860
+L 12/06/2021 - 23:37:45: PAS building time 0.014316 secs

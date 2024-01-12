@@ -1,0 +1,31 @@
+L 12/13/2021 - 21:00:33: Log file started (file 'cstrike/addons/whblocker/logs/L_13_12_2021.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 12/13/2021 - 21:00:33: DEBUG: GameRules found 0xAF45E48
+L 12/13/2021 - 21:00:33: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/13/2021 - 21:00:33: Building PAS...
+L 12/13/2021 - 21:00:33: Average leaves visible / audible / total: 150 / 552 / 1459
+L 12/13/2021 - 21:00:33: PAS building time 0.009572 secs
+L 12/13/2021 - 21:33:08: DEBUG: GameRules found 0xAF45E48
+L 12/13/2021 - 21:33:08: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/13/2021 - 21:33:08: Building PAS...
+L 12/13/2021 - 21:33:08: Average leaves visible / audible / total: 143 / 546 / 1860
+L 12/13/2021 - 21:33:08: PAS building time 0.014352 secs
+L 12/13/2021 - 22:14:20: DEBUG: GameRules found 0xAF45E48
+L 12/13/2021 - 22:14:20: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/13/2021 - 22:14:20: Building PAS...
+L 12/13/2021 - 22:14:20: Average leaves visible / audible / total: 151 / 385 / 1238
+L 12/13/2021 - 22:14:20: PAS building time 0.006887 secs
+L 12/13/2021 - 22:49:29: DEBUG: GameRules found 0xAF45E48
+L 12/13/2021 - 22:49:29: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/13/2021 - 22:49:29: Building PAS...
+L 12/13/2021 - 22:49:29: Average leaves visible / audible / total: 133 / 395 / 1202
+L 12/13/2021 - 22:49:29: PAS building time 0.006487 secs
+L 12/13/2021 - 23:22:05: DEBUG: GameRules found 0xAF45E48
+L 12/13/2021 - 23:22:05: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/13/2021 - 23:22:05: Building PAS...
+L 12/13/2021 - 23:22:05: Average leaves visible / audible / total: 150 / 552 / 1459
+L 12/13/2021 - 23:22:05: PAS building time 0.009555 secs
+L 12/13/2021 - 23:56:56: DEBUG: GameRules found 0xAF45E48
+L 12/13/2021 - 23:56:56: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 12/13/2021 - 23:56:56: Building PAS...
+L 12/13/2021 - 23:56:56: Average leaves visible / audible / total: 48 / 92 / 97
+L 12/13/2021 - 23:56:56: PAS building time 0.000168 secs

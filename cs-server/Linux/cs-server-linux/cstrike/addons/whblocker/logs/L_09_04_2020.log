@@ -1,0 +1,137 @@
+L 04/09/2020 - 00:13:16: Log file started (file 'cstrike/addons/whblocker/logs/L_09_04_2020.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.696')
+L 04/09/2020 - 00:13:16: Success: Configuration executed.
+L 04/09/2020 - 00:13:16: PrivateData Offsets: ->
+pev			- '4'
+vtable			- '0'
+playership		- '51'
+m_iId			- '43'
+m_pActiveItem		- '373'
+m_blindStartTime	- '515'
+m_blindHoldTime		- '516'
+m_blindAlpha		- '518'
+L 04/09/2020 - 00:13:16: Success: Build ReHLDS version defined Windows '2173' (cstrike)
+L 04/09/2020 - 00:13:16: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 04/09/2020 - 00:13:16: Building PAS...
+L 04/09/2020 - 00:13:16: Average leaves visible / audible / total: 133 / 395 / 1202
+L 04/09/2020 - 00:13:16: PAS building time 0.0158729 secs
+L 04/09/2020 - 00:13:16: Changelevel Server (map 'de_dust2') (maxplayers '18') (use 'gpGlobals->maxClients')
+L 04/09/2020 - 00:43:47: Success: Configuration executed.
+L 04/09/2020 - 00:43:47: PrivateData Offsets: ->
+pev			- '4'
+vtable			- '0'
+playership		- '51'
+m_iId			- '43'
+m_pActiveItem		- '373'
+m_blindStartTime	- '515'
+m_blindHoldTime		- '516'
+m_blindAlpha		- '518'
+L 04/09/2020 - 00:43:47: Success: Build ReHLDS version defined Windows '2173' (cstrike)
+L 04/09/2020 - 00:43:47: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 04/09/2020 - 00:43:47: Building PAS...
+L 04/09/2020 - 00:43:47: Average leaves visible / audible / total: 133 / 395 / 1202
+L 04/09/2020 - 00:43:47: PAS building time 0.0147725 secs
+L 04/09/2020 - 00:43:47: Changelevel Server (map 'de_dust2') (maxplayers '18') (use 'gpGlobals->maxClients')
+L 04/09/2020 - 01:08:51: Success: Configuration executed.
+L 04/09/2020 - 01:08:51: PrivateData Offsets: ->
+pev			- '4'
+vtable			- '0'
+playership		- '51'
+m_iId			- '43'
+m_pActiveItem		- '373'
+m_blindStartTime	- '515'
+m_blindHoldTime		- '516'
+m_blindAlpha		- '518'
+L 04/09/2020 - 01:08:51: Success: Build ReHLDS version defined Windows '2173' (cstrike)
+L 04/09/2020 - 01:08:51: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 04/09/2020 - 01:08:51: Building PAS...
+L 04/09/2020 - 01:08:51: Average leaves visible / audible / total: 133 / 395 / 1202
+L 04/09/2020 - 01:08:51: PAS building time 0.0159781 secs
+L 04/09/2020 - 01:08:52: Changelevel Server (map 'de_dust2') (maxplayers '18') (use 'gpGlobals->maxClients')
+L 04/09/2020 - 01:28:02: Success: Configuration executed.
+L 04/09/2020 - 01:28:02: PrivateData Offsets: ->
+pev			- '4'
+vtable			- '0'
+playership		- '51'
+m_iId			- '43'
+m_pActiveItem		- '373'
+m_blindStartTime	- '515'
+m_blindHoldTime		- '516'
+m_blindAlpha		- '518'
+L 04/09/2020 - 01:28:02: Success: Build ReHLDS version defined Windows '2173' (cstrike)
+L 04/09/2020 - 01:28:02: Settings: -> 
+debug		- '3'
+esp		- '1'
+smooth		- '1'
+smoothout	- '1'
+smoothent	- '45'
+decalfix	- '1'
+antinoflash	- '1'
+alphaflash	- '255'
+team		- '0'
+fov		- '1'
+solid		- '2'
+barrel		- '1'
+blockent	- '1'
+hlfix		- '0'
+metacall	- '1'
+blocktype	- '0'
+skytrace	- '1'
+revis		- '0'
+L 04/09/2020 - 01:28:02: Building PAS...
+L 04/09/2020 - 01:28:02: Average leaves visible / audible / total: 133 / 395 / 1202
+L 04/09/2020 - 01:28:02: PAS building time 0.0140781 secs
+L 04/09/2020 - 01:28:03: Changelevel Server (map 'de_dust2') (maxplayers '18') (use 'gpGlobals->maxClients')

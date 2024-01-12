@@ -1,0 +1,3 @@
+L 03/29/2022 - 00:09:54: Log file started (file 'cstrike/addons/whblocker/logs/L_29_03_2022.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 03/29/2022 - 00:09:54: DEBUG: GameRules found 0xA4FE8D0
+L 03/29/2022 - 00:09:54: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')

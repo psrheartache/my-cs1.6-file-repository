@@ -1,0 +1,56 @@
+L 02/07/2022 - 20:04:58: Log file started (file 'cstrike/addons/whblocker/logs/L_07_02_2022.log') (dir 'cstrike') (mod 'Counter-Strike 1.6') (version '1.5.697')
+L 02/07/2022 - 20:04:58: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 20:04:58: Changelevel Server (map 'de_nuke_spam_spots') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 20:04:58: Building PAS...
+L 02/07/2022 - 20:04:58: Average leaves visible / audible / total: 257 / 727 / 1207
+L 02/07/2022 - 20:04:58: PAS building time 0.008242 secs
+L 02/07/2022 - 20:21:34: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 20:21:34: Changelevel Server (map 'de_train_spam_spots') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 20:21:34: Building PAS...
+L 02/07/2022 - 20:21:34: Average leaves visible / audible / total: 48 / 92 / 97
+L 02/07/2022 - 20:21:34: PAS building time 0.000154 secs
+L 02/07/2022 - 20:25:44: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 20:25:44: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 20:25:44: Building PAS...
+L 02/07/2022 - 20:25:44: Average leaves visible / audible / total: 133 / 395 / 1202
+L 02/07/2022 - 20:25:44: PAS building time 0.006544 secs
+L 02/07/2022 - 20:26:53: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 20:26:53: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 20:26:53: Building PAS...
+L 02/07/2022 - 20:26:53: Average leaves visible / audible / total: 48 / 92 / 97
+L 02/07/2022 - 20:26:53: PAS building time 0.000156 secs
+L 02/07/2022 - 20:40:36: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 20:40:36: Changelevel Server (map 'cs_bloodstrike') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 20:40:36: Building PAS...
+L 02/07/2022 - 20:40:36: Average leaves visible / audible / total: 133 / 395 / 1202
+L 02/07/2022 - 20:40:36: PAS building time 0.006526 secs
+L 02/07/2022 - 21:33:03: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 21:33:03: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 21:33:03: Building PAS...
+L 02/07/2022 - 21:33:03: Average leaves visible / audible / total: 150 / 552 / 1459
+L 02/07/2022 - 21:33:03: PAS building time 0.009582 secs
+L 02/07/2022 - 22:04:11: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 22:04:11: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 22:04:11: Building PAS...
+L 02/07/2022 - 22:04:11: Average leaves visible / audible / total: 150 / 552 / 1459
+L 02/07/2022 - 22:04:11: PAS building time 0.009608 secs
+L 02/07/2022 - 22:04:37: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 22:04:37: Changelevel Server (map 'de_inferno') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 22:04:37: Building PAS...
+L 02/07/2022 - 22:04:37: Average leaves visible / audible / total: 143 / 546 / 1860
+L 02/07/2022 - 22:04:37: PAS building time 0.014292 secs
+L 02/07/2022 - 22:36:14: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 22:36:14: Changelevel Server (map 'de_nuke') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 22:36:14: Building PAS...
+L 02/07/2022 - 22:36:14: Average leaves visible / audible / total: 151 / 385 / 1238
+L 02/07/2022 - 22:36:14: PAS building time 0.006904 secs
+L 02/07/2022 - 23:07:02: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 23:07:02: Changelevel Server (map 'de_train') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 23:07:02: Building PAS...
+L 02/07/2022 - 23:07:02: Average leaves visible / audible / total: 133 / 395 / 1202
+L 02/07/2022 - 23:07:02: PAS building time 0.006558 secs
+L 02/07/2022 - 23:52:35: DEBUG: GameRules found 0xA4FE8D0
+L 02/07/2022 - 23:52:35: Changelevel Server (map 'de_dust2') (maxplayers '20') (use 'global_svs->maxplayers')
+L 02/07/2022 - 23:52:35: Building PAS...
+L 02/07/2022 - 23:52:35: Average leaves visible / audible / total: 150 / 552 / 1459
+L 02/07/2022 - 23:52:35: PAS building time 0.009544 secs
